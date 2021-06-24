@@ -1,0 +1,145 @@
+{
+  "nome_completo": "Magnólia Maria de Medeiros",
+  "o_que_eu_quero": "Desejo um ambiente de trabalho que proporcione home office, segurança, trabalho em equipe e colaboração, onde seja possível não só resolver mas também trazer soluções para problemas diversos. Por esse motivo atualmente me dedicado ao estudo de backend (JavaScript, NodeJS, MongoDB), embora sempre procuro entender sobre como funciona o frontend, além disso busco compreender sobre acessibilidade, usabilidade e experiência do usuário",
+  "cidade_estado:": "Currais Novos/RN",
+  "link_linkedin": "https://www.linkedin.com/in/magnoliamedeiros/",
+  "link_github": "https://github.com/magnoliamedeiros",
+  "email": "magnoliamedeiros@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Busco gerenciar de modo saudável e produtivo o stress e a pressão, buscando evoluir constantemente através de leituras, estudos seja de forma profissional ou pessoal. Acredito e apoio toda e qualquer forma de levar a comunidades menos favorecidas o conhecimento (voluntariado).",
+    "Minha formação inicial é em Licenciatura em Geografia, profissão não exercida devido à transição de carreira para área de Tecnologia da Informação, e para tal busquei curso técnico e formação superior na área, atualmente estou no 5° período do Curso de Tecnologia em Sistemas para Internet no Instituto Federal de Educação Ciência e Tecnologia do Rio Grande do Norte(IFRN), também sou estudante de backend na Reprograma, uma iniciativa maravilhosa que foca em ensinar programação para mulheres que não têm recursos e/ou oportunidades para aprender programar.",
+    "Adoro estar com minha família, leituras de livros diversos, assistir filmes e séries nas horas vagas, como também busco sempre participar de projetos na instituição que atualmente estudo principalmente se for algo voltado para a comunidade."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Design Gráfica",
+      "empresa": "Empresa XPTO",
+      "periodo": "Jan/2017 a Dez/2018",
+      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Projeto Voluntário",
+      "empresa": "Reprograma - Cliente Fulano",
+      "periodo": "Jan/2017 a Dez/2018",
+      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
+      "link": "http://clientefulano.com.br"
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Design Gráfico",
+      "instituicao": "Escola Tal",
+      "periodo": "Jan/2016 a Dez/2018",
+      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+    },
+    {
+      "curso": "Curso de Web Design",
+      "instituicao": "Escola Tal",
+      "periodo": "Jan/2015 a Dez/2015",
+      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Curso online de Javascript",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+    },
+    {
+      "interesse_evento_curso": "Curso ES6",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "SASS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 1
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "WORDPRESS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "PHP",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "MySQL",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "FTP",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "PHOTOSHOP",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "ILUSTRATOR",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "INDESIGN",
+      "pontuacao": 9
+    }
+  ]
+}
