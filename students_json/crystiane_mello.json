@@ -1,0 +1,129 @@
+{
+  "nome_completo": "Crystiane Caldeira de Mello",
+  "o_que_eu_quero": "Trabalhar com teste, Quality Assurance-QA, Back-end",
+  "cidade_estado:": "Brasília-DF",
+  "link_linkedin": "https://www.linkedin.com/in/crystianemello/",
+  "link_github": "https://github.com/CrysMello",
+  "email": "crystianemello@hotmail.com",
+  "um_pouco_sobre_mim": [
+"Sou uma mulher que viveu mais de 7 anos no Exterior em países do língua espanhola (Chile e Venezuela). Considero-me observadora, analítica, com boa resolução de problemas, proativa e com inteligência emocional.",
+"Iniciei minha carreira como estagiária em banco em que posteriormente atuei no setor financeiro como analista. Sou muito curiosa por tudo que envolve tecnologia e já tive experiência em montagem e configuração de computadores. A programação tornou-se minha opção de escolha para entender ainda mais do mundo da tecnologia e está sendo um prazer ampliar meu conhecimento.",
+"Sou uma pessoa apaixonada pelos meus cachorros e que adora apreciar a natureza no tempo livre, jogar video game, sair com amigos, viajar para lugares remotos onde possa vivência e conhecer outras culturas locais e assim compreender e aprender sobre seu cotidiano.."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Freelancer",
+      "empresa": null,
+      "periodo": "out/2020 a mar/2021",
+      "atividades_desenvolvidas": "Manutenção de notebooks e desktops, instalação de software, clonagem do Windows.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Encarregado do Setor Financeiro",
+      "empresa": "Grupo Eldorado",
+      "periodo": "ago/2018 a Dez/2019",
+      "atividades_desenvolvidas": "Conciliação bancária e contábil, análise de contas a pagar e receber,indicadores financeiros, departamento pessoal.",
+      "link": "http://madeireiraeldorado.com.br/"
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Análise e desenvolvimento de sistemas",
+      "instituicao": "Universidade Católica de Brasília",
+      "periodo": "Ago/2020 a Dez/2023",
+      "resumo_conhecimentos_aprendidos": "Foco em desenvolvimento de sistemas"
+    },
+    {
+      "curso": "Bacharel em Ciências Contábeis",
+      "instituicao": "UNISUL",
+      "periodo": "Jan/2011 a Dez/2015",
+      "resumo_conhecimentos_aprendidos": "Análise contábil, financeira e econômica "
+    },
+    {
+      "curso": "Pós Graduação em Controladoria e Auditoria",
+      "instituicao": "Uninter",
+      "periodo": "Jan/2019 a Dez/2019",
+      "resumo_conhecimentos_aprendidos": "Auditoria e controladoria  contábil."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Início rápido em Teste de Software",
+      "instituicao": "Iterasys",
+      "resumo_conhecimentos_interesses": "Entendimento sobre teste de software, planejamento de testes e testes Web"
+    },
+    {
+      "interesse_evento_curso": "Hackathon Stefanini",
+      "instituicao": "Stefanini",
+      "resumo_conhecimentos_interesses": "Hackathon com foco em Java, Angular e Node"
+    },
+    {
+      "interesse_evento_curso": "Maratonalytics Stefanini",
+      "instituicao": "Stefanini",
+      "resumo_conhecimentos_interesses": "Conceitos e ferraments, visualização e análise de dados e tratamento de dados"
+    },
+    {
+      "interesse_evento_curso": "Webinar Java",
+      "instituicao": "Educación IT",
+      "resumo_conhecimentos_interesses": "Palestra sobre Java"
+    },
+    {
+      "interesse_evento_curso": "Webinar: Introducción a Software Testing QA ",
+      "instituicao": "Educación IT",
+      "resumo_conhecimentos_interesses": "Algoritmo , estrutura de controle, funções, estrutura de repetição"
+    },
+    {
+      "interesse_evento_curso": "Kanban",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Entendimento de implantação de métodos ágeis"
+    },
+    {
+      "interesse_evento_curso": "Formação em Teste de Software",
+      "instituicao": "Iterasys",
+      "resumo_conhecimentos_interesses": "Irei começar agora em Julho"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "Espanhol",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "METODOS AGÉIS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "MONGODB",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "EXPRESS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "POSTMAN",
+      "pontuacao": 6
+    }
+  ]
+}
+
