@@ -1,0 +1,123 @@
+{
+  "nome_completo": "Bárbara Borges da Silva",
+  "o_que_eu_quero": "Garantir meu futuro em busca de mais conhecimento e agregar isso a minha carreira profissional.",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/barbara-borges-silva/",
+  "link_github": "https://github.com/barborges",
+  "email": "barborges@outlook.com",
+  "um_pouco_sobre_mim": [
+    "Atualmente idealizadora e responsável pela marca Slow Fashion Phink It (Vestuário) e Cásia (Absorventes e Coletores menstrual).",
+    "Durante os últimos anos empreendendo, descobri que a tecnológia pode trazer um mundo cheio de descobertas. Poder trazer isso à minha carreira foi um up e tanto! Saio do curso de programação com muito aprendizado e insights.",
+    "Colaborar e co-criar em equipe tem sido bastante instigante nos últimos meses para mim. Além de poder trocar ideias, é prazeroso poder ensinar o que sei.",
+    "É na leitura do dia-a-dia que busco o auto-conhecimento, ligar pontos (erros e acertos) e a partir disso viver ciclicamente, fazer mudanças precisas até me certificar que estou no caminho certo e continuar seguindo."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Consultora de Moda",
+      "empresa": "Empresa GEP",
+      "periodo": "Set/2013 a Fev/2015",
+      "atividades_desenvolvidas": "Atendimento ao público, caixa, consultoria exclusiva dos produtos da empresa para os clientes, reposição de produtos do estoque à área de vendas, pós-venda com clientes.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Consultora de Moda Responsável - Sub Gerente",
+      "empresa": "Empresa GEP",
+      "periodo": "Fev/2015 a Jan/2017",
+      "atividades_desenvolvidas": "Contato direto com clientes e área burocrática, resoluções de problemas estruturais, atendimento ao público, preenchimento de planilhas e relatórios semanais da empresa, organizadora de treinamentos com foco em atendimento ao cliente e antifurtos, VM, conferência de entrada e saída de peças recebidas semanalmente. Administrativo: Conferir diariamente os relatórios e rotina, avaliação de venda e metas, feedbacks semanais com cada um da equipe para informar seu modo e desempenho de atuação no trabalho, formação e desenvolvimento da equipe, organização de folgas e horários.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Fundadora - CEO",
+      "empresa": "MEI - Loja Phink It",
+      "periodo": "Fev/2017 até o momento",
+      "atividades_desenvolvidas": "Gerenciamento de e-commerce, modelista, costureira, estilista, diagramação, posts para as redes sociais, atendimento online de vendas, planejamento, edição de mídias e conteúdo. Aplicando o Slow Fashion e Upcycling, tendo como principal propósito o consumo consciente.",
+      "link": "www.lojaphinkit.com.br"
+    },
+    {
+      "cargo_funcao": "Projeto Voluntário",
+      "empresa": "IDF (Israel Defenses Forces) - SAREL",
+      "periodo": "Out/2010 a Out/2010",
+      "atividades_desenvolvidas": "Trabalho voluntário adquirido no intercâmbio em Israel; atividades em campo, trabalhos em equipe, manutenção de equipamentos, organização de objetos nos principais locais de trabalho dos militares, organização da limpeza de porões e plastificação de documentos.",
+      "link": "https://www.sar-el.org/"
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Letras - Português e Inglês",
+      "instituicao": "UNICAP",
+      "periodo": "Fev/2015 - (único período)",
+      "resumo_conhecimentos_aprendidos": "Introdução à língua portuguesa, conversação e revisões em inglês"
+    },
+    {
+      "curso": "Curso de Inglês",
+      "instituicao": "Watford - Natal/RN",
+      "periodo": "Set/2011 a Jul/2012",
+      "resumo_conhecimentos_aprendidos": "Callan Method - inglês britânico"
+    },
+    {
+      "curso": "Hackeando a Dobra",
+      "instituicao": "Dobra",
+      "periodo": "Mai/2020",
+      "resumo_conhecimentos_aprendidos": "Diferença entre crescimento Linear x Exponencial, e a lógica Industrial x Digital. Modelo de Negócio e Startup enxuta. Organizações exponenciais. Anúncios e mídias pagas. Marketing. Cultura e Gestão. Propósito, Impacto positivo e abertura radical."
+    },
+    {
+      "curso": "Gestão Financeira",
+      "instituicao": "SEBRAE",
+      "periodo": "Mai/2020",
+      "resumo_conhecimentos_aprendidos": "Gerenciamento e preenchimento de fluxo de caixa para empresas."
+    },
+    {
+      "curso": " Trilha - Negócios de Impacto Socioambiental",
+      "instituicao": "SEBRAE",
+      "periodo": "Nov/2020",
+      "resumo_conhecimentos_aprendidos": "Criando um modelo de Negócio de Impacto Socioambiental."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Curso JavaScript",
+      "instituicao": "Curso em Vídeo - Gustavo Guanabara",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript e lógica de programação"
+    },
+    {
+      "interesse_evento_curso": "Imersão Dev",
+      "instituicao": "Alura",
+      "resumo_conhecimentos_interesses": "Mergulho inicial no universo da programação: HTML, CSS e Javascript. Desafios personalizados."
+    },
+    {
+      "interesse_evento_curso": "Desenvolvedora Backend",
+      "instituicao": "Reprograma",
+      "resumo_conhecimentos_interesses": "Bootcamp Online - conceitos JavaScript, exercícios semanais e projetos elaborados em sala de aula com foco em backend."
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 10
+    },
+    {
+      "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
+      "pontuacao": 8
+    }
+  ]
+}
