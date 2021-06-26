@@ -1,0 +1,228 @@
+{
+  "nome_completo": "Mariana de Lima Santos",
+  "o_que_eu_quero": "Desejo aprimorar cada vez mais meus conhecimentos e me tornar futuramente uma Engenheira de Software sênior me tornando então tech lead ajudando a desenvolver e aprimorar os conhecimentos de outras pessoas.",
+  "cidade_estado:": "Rio de Janeiro/RJ",
+  "link_linkedin": "https://www.linkedin.com/in/mariana-lima-8a5640141/",
+  "link_github": "https://github.com/Marianaliima",
+  "email": "marilimabrito13@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Eu tenho 26 anos, sou uma pessoa sonhadora e determinada que acredita na tecnologia como forma de tornar o mundo um lugar melhor.",
+    "A minha trajetória até aqui tem sido de muito sucesso e dedicação, me esforço ao máximo para atingir meus objetivos e hoje estou na segunda universidade, sou mãe da Vitória de 6 anos e tenho grandes planos para o futuro.",
+    "Gosto de estudar novas culturas e idiomas, assistir doramas e jogar vídeo games"
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Innovation intern",
+      "empresa": "Ipiranga",
+      "periodo": "Mar/2021 atualmente",
+      "atividades_desenvolvidas": "Relacionamento com o ecossistema de startups empreendedores, mentores, aceleradoras e universidades Participando em rotinas junto ao time de inovação contribuindo de forma criativa e crítica para as discussões. Preparar apresentações ligadas ao tema, suporte a criação e manutenção de ferramentas de gestão. Pesquisa e análise de dados para suporte à decisão com foco em resolução de problemas; Suporte na organização de eventos e workshops; Realizar pesquisas através da internet para trazer elementos novos ligados à inovação soluções inovadoras, startups e tendências de mercado. Identificação de sinergias entre unidades de negócios; Avaliação de novas ideias; Auxiliar na promoção e disseminação da cultura de inovação e transformação digital."
+    },
+    {
+      "cargo_funcao": "Analista III",
+      "empresa": "APDZ - Educação e Tecnologia",
+      "periodo": "Jan/2019 a Mar/2021",
+      "atividades_desenvolvidas": "Desenvolver projeto educativo com foco em educação tecnologica. Analisar e acompanhar o projeto em unidades pelo Brasil, identificar necessidades, participar da realização de estudos, emitir parecer técnico e relatórios. Capacitar professores, auxiliares, coordenadores para trabalhar com róbotica educacional e tecnologia através da cultura Maker utilizando a abordagem Steam, estimulando a capacidade de resolver problemas e a lógica de programação. Fazer visitas técnicas, acompanhar aulas, reorientar sobre a metodologia pedagógica da APDZ em salas de aula, auxiliar na organização de eventos de educação, conversar com responsáveis, realizar eventos com responsáveis. Construção de material didático, escrita de material didático, organização de espaço operacional, elaboração de material didático para o ensino da tecnologia através de plataformas virtuais. Elaboração de um currículo escolar de Tecnologia e engenharia desde a educação infantil até o ensino médio."
+    },
+    {
+      "cargo_funcao": "Monitora",
+      "empresa": "Viamaker",
+      "periodo": "Set/2019 a Dez/2019",
+      "atividades_desenvolvidas": "Acompanhar projetos de educação tecnológica utilizando a Cultura Maker com a abordagem STEAM, estimulando os estudantes a resolver desafios do século XXI."
+
+    },
+    {
+      "cargo_funcao": "Acadêmico Bolsista - Programa Institucional de Bolsa de Iniciação à Docência",
+      "empresa": "CAPES",
+      "periodo": "Ago/2013 a jan/2018",
+      "atividades_desenvolvidas": "O Programa de Institucional de Bolsas de Iniciação à Docência (PIBID/CAPES) é uma iniciativa para o aperfeiçoamento e a valorização da formação de professores para a educação básica. Promove a inserção dos estudantes no contexto das escolas de educação básica da rede pública de ensino, desde o início da sua formação acadêmica, para que desenvolvam atividades didático-pedagógicas sob orientação de um docente da licenciatura e de um professor da escola."
+    },
+    {
+      "cargo_funcao": "Estagiária",
+      "empresa": "Canadian School of Niterói",
+      "periodo": "Out/2017 a Dez/2017",
+      "atividades_desenvolvidas": "Auxiliar as crianças no período integral ajudando em deveres de casa tanto em inglês quanto português."
+    },
+    {
+      "cargo_funcao": "Assessoria de Mídias e Novas Tecnologias",
+      "empresa": "Fundação Municipal de Educação de Niterói",
+      "periodo": "Fev/2016 a jun/2016",
+      "atividades_desenvolvidas":"Trabalho com projetos pedagógicos com diferentes tecnologias em escolas municipais de Niterói. O Projeto envolvia aulas de robótica e a inclusão de alunos com algum tipo de necessidade especial em laboratórios de informática especializados."
+    },
+    {
+      "cargo_funcao": "Monitora",
+      "empresa": "Universidade Federal Fluminense",
+      "periodo": "Mar/2014 a Nov/2014",
+      "atividades_desenvolvidas":"O Programa de Monitoria é um Programa anual, que visa fomentar a iniciação à docência de estudantes de cursos de graduação da UFF, contribuindo para a formação de docentes para atuar na educação de nível superior e oferecendo suporte aos alunos por meio de um conjunto de atividades acadêmicas que podem consistir em: apoio em sessões de laboratório e aulas práticas; auxílio na resolução de exercícios; elaboração de material didático inovador; atividades relativas ao processo de aprendizado das disciplinas."
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Engenharia de Software",
+      "instituicao": "Universidade Cruzeiro do Sul",
+      "periodo": "Ago/2020 a Dez/2024",
+      "resumo_conhecimentos_aprendidos": "Visando o desenvolvimento e manutenção de sistemas de software de maneira sistemática, controlada, quantificável e eficiente, considerando ainda questões tecnológicas, éticas, legais e econômicas."
+    },
+
+    {
+      "curso": "Reprograma",
+      "instituicao": "Universidade Cruzeiro do Sul",
+      "periodo": "Mar/2021 a Jul/2021",
+      "resumo_conhecimentos_aprendidos": "Bootcamp imersivo para especialização em Desenvolvimento Back-End (JS (NodeJS), API (CRUD), Autenticações, Integração do Back-End ao Banco de Dados e Projetos Práticos)."
+    },
+    {
+      "curso": "Machine Learning Engineer ",
+      "instituicao": "FourthBrain",
+      "periodo": "Mar/2021 a Jul/2021",
+      "resumo_conhecimentos_aprendidos": "Build, validate and test data models via supervised, unsupervised, and semi-supervised methods. Apply Deep Learning methods to computer vision, perception and other scenarios. Utilize Generative Adversarial Networks for data and model scaling. Apply time series models for contextual learning and inference Benchmark, optimally parameterize and modularize system frameworks for extendability Build explainable models by leveraging visualization techniques Deploy scalable, optimized end-to-end models in production environments Implement Continuous Integration and Deployment (CI/CD) Pipelines for continuous deployed applications Integrate themselves into industrial teams as key contributors for production-ready environments. Run Deployed ML demonstrations of group projects with polished Github repositories"
+
+    },
+    {
+      "curso": "Matemática",
+      "instituicao": "Universidade Federal do Estado do Rio de Janeiro",
+      "periodo": "Ago/2018 a jan/2019",
+      "resumo_conhecimentos_aprendidos": "curso tem como objetivo a formação de professores de matemática que irão atuar nos anos finais do Ensino Fundamental (6° ao 9° anos) e no Ensino Médio. "
+    },
+    {
+      "curso": "Pedagogia",
+      "instituicao": "Universidade Federal Fluminense",
+      "periodo": "Abr/2013 a Ago/2018",
+      "resumo_conhecimentos_aprendidos": "A organização curricular é constituída de nove períodos, equivalendo a quatro anos e meio, no mínimo, para a sua integralização. Nessa organização curricular são componentes obrigatórios: disciplinas, pesquisas e prática pedagógica, atividades e monografia"
+    },
+    {
+      "curso": "Data Science Bootcamp",
+      "instituicao": "DataBootCamp",
+      "periodo": "Mar/2021 a Mar/2021",
+      "resumo_conhecimentos_aprendidos": "Introdução a programação com Python Análise de dados com Pandas, Estatística descritiva e inferencial Machine Learning com Scikit-Learn, Mentoria e resolução de excercicios. "
+
+    },
+    
+    {
+      "curso": "Lógica de Programação para Data Science e AI com Python ",
+      "instituicao": "Udemy",
+      "periodo": "Mar/2021  atualmente",
+      "resumo_conhecimentos_aprendidos": "Lógica de Programação para Data Science e AI com Python - Fundamentos de Python , Declaração de variáveis, Entrada e saída de dados, Estruturas de Decisão, Estruturas de Repetição, Orientação a Objetos, Listas, Funções, Criação de Funções de Data Science, Consumo de Funções de Data Science "
+
+    },
+    {
+      "curso": "Java",
+      "instituicao": "COD3R ",
+      "periodo": "Ago/2021 atualmente",
+      "resumo_conhecimentos_aprendidos": "algoritmo e estrutura de dados fundamentos da Linguagem Java; Estruturas de controle classes, objetos, métodos; Orientação a objeto; Encapsulamento, herança, polimorfismo e abstração; Lambdas; Stream API; Tratamento de Exceções; JavaFX; Banco de Dados Relacional; Bando de Dados NÃO Relacional (NoSQL); JPA (Hibernate) "
+
+    },
+      {
+        "curso": "Maker – Centered Learning",
+      "instituicao": "Agency by Design ",
+      "periodo": "Jun/2019 a jun/2019",
+      "resumo_conhecimentos_aprendidos": "Empowering Young People to Shape their Worlds as facilitated by Edward P. Clapp "
+
+      },
+      {
+        "curso": "Arduino",
+        "instituicao": "Centro Paula Souza",
+        "periodo": "Ago/2021 atualmente",
+        "resumo_conhecimentos_aprendidos": "arduino, eletricidade básica, introdução à lógica de programação, estruturas de programação, instruções de entrada e saída, comandos com LED, buzzer e push button, estruturas de decisão, estrutura de repetição, sensores, display de 7 segmentos, controle remoto, motores e práticas."
+      },
+      {
+        "curso": "Programando jogos online com Scratch",
+        "instituicao": "Fundação Centro de Ciências e Educação Superior a Distância do Estado do Rio de Janeiro -  ",
+        "periodo": "Ago/2019 a Dez/2019",
+        "resumo_conhecimentos_aprendidos": "Apresentação e discussão sobre os recursos básicos do Scratch; Desenvolvimento de propostas de atividades práticas interdisciplinares envolvendo conteúdos da educação básica e de programação; Discussão de uma abordagem tecnológica com recursos de programação plicado em diversas disciplinas; Discussão de propostas práticas e exemplos de atividades online; Elaboração de projetos com material online. "
+
+      }
+
+    
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Formação Engenheiro de Machine Learning",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "As principais técnicas e conceitos da mais importante área da Inteligência Artificial, com prática em Python!"
+    },
+    {
+      "interesse_evento_curso": "Formação Cientista de Dados II: Tópicos Avançados ",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "técnicas e ferramentas avançadas em Data Science"
+    },
+    {
+      "interesse_evento_curso": "Rest com NodeJS: API com Express e MySQL ",
+      "instituicao": "Alura",
+      "resumo_conhecimentos_interesses": "Criar API REST Use o MySQL para salvar  dados, usar o Express para criar um servidor, aprender a manipular datas com MomentJS  validando os dados antes de enviar para o banco de dados, enviar erros descritivos para o seu usuário"
+
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "DATA SCIENCE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "PYTHON",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "MACHINE LEARNING",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "JAVA",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "DATA ANALYTCS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "COMUNICAÇÃO",
+      "pontuacao": 10
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "DATABRICKS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "PHOTOSHOP",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "INOVAÇÃO",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "ROBÓTICA EDUCACIONAL",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "SQL",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 5
+    }
+  ]
+}
