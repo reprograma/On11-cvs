@@ -98,6 +98,11 @@
       "interesse_evento_curso": "Blockchain Advanced",
       "instituicao": "FIAP",
       "resumo_conhecimentos_interesses": "Fundamentos de blockchain, da criação de smart contracts e de aplicações descentralizadas na plataforma ethereum"
+    },
+    {
+      "interesse_evento_curso": "COMPETÊNCIA TRANSVERSAL - LÓGICA DE PROGRAMAÇÃO",
+      "instituicao": "SENAI - SP",
+      "resumo_conhecimentos_interesses": "Representações de um algoritmo, Tipos de dados, Variáveis Indexadas, Expressões Aritméticas, Literais e Lógicas, Estruturas de Condição, Estruturas de Repetição."
     }
   ],
   "no_que_me_destaco": [
