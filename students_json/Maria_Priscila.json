@@ -1,0 +1,209 @@
+{
+  "nome_completo": "Maria Priscila",
+  "o_que_eu_quero": "Atuar como Analista de desenvolvimento / Desenvolvedora Back-End em um espaço que permita o crescimento e prática na área, além de poder agregar os conhecimentos já adquiridos das minhas vivências anteriores.",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/maria-priscila-c/",
+  "link_github": "https://github.com/PrisRocha",
+  "email": "pry16rocha@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou cativada pela tecnologia e pelo seu uso na criação de soluções para as pessoas, acredito que soluções simples podem causar grandes impactos no dia a dia de outrem. Sou Bacharela em Administração por formação, atuei por sete anos em área e ao longo de minha trajetória profissional me tornei especialista em resolver problemas, a gerenciar conflitos, a desenvolver e aperfeiçoar processos.",
+    "Apesar de gostar do que faço, aproximei-me da tecnologia com intento de realizar a transição de carreira pelo fator predominante das inúmeras possibilidades que são proporcionadas pela área Tech, atualmente sou estudante de tecnologias para negócios, tenho formação de Back-End pela instituição Reprograma, formação em Programação de games e desenvolvimento socioemocional pela Fly-Toti e estou envolvida em diversas atividades voltadas para área de desenvolvimento e arquitetura de soluções.",
+    "Aprender a desenvolver é um desafio, mas o que mais me seduz e brilha os meus olhos é a liberdade que se têm para explorar novos caminhos, nova formas de solucionar problemas, além da troca incessante de conhecimento entre a squad e a comunidade como um todo.",
+    "Tenho como regra de equilíbrio a minha estabilidade emocional e a amabilidade, sempre desenvolvendo a minha curiosidade intelectual e a extroversão."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Supervisora ADM Financeiro",
+      "empresa": "Serttel",
+      "periodo": "Fev/2019 - o momento",
+      "atividades_desenvolvidas": "Supervisão, planejamento e implementação de projetos do dia a dia no contas a receber, criação de documentos para aplicação funcionais e técnicas, projeções e simulações estratégicas, desenvolvimento e melhoramento do desempenho das atividades e implementação de ações corretivas.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Estagiária",
+      "empresa": "Infraero Brasil",
+      "periodo": "Out/2018 a Jan/2019",
+      "atividades_desenvolvidas": "Controle dos processos administrativos contratuais, análise e aplicação das normas e leis que tangem as licitações públicas",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Freelancer - Técnica em Edificações",
+      "empresa": "Cláudio Soares Mota Consultoria de Estruturas",
+      "periodo": "Mai/2014 a Mai/2015",
+      "atividades_desenvolvidas": "Desenvolvendo projetos de estrutura, hidráulica, elétrica, estrutura metálica, levantamentos, elaboração de laudo técnico, e cálculo de tabelas orçamentarias.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Assessora administrativa",
+      "empresa": "Hospital da Restauração",
+      "periodo": "Out/2011 a Jun/2014",
+      "atividades_desenvolvidas": "Conciliação e reconciliação bancária, pagamentos de impostos. Emissão diária de relatório contas á pagar, alimentação e criação de planilhas, revisar e validar lançamentos contábeis.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Todas em Tech - Back-End",
+      "instituicao": "{Reprograma}",
+      "periodo": "Mar/2021 a Jul/2021",
+      "resumo_conhecimentos_aprendidos": "Desenvolvimento com Node.js; Construção de APIS RESTful com integração de Banco de Dados (MongoDB); Autenticação e Autorização com JWT e Bcrypt."
+    },
+    {
+      "curso": "Especialiazação em Gestão Pública",
+      "instituicao": "Universidade Federal Rural de Pernambuco",
+      "periodo": "Fev/2021 a Jul/2022",
+      "resumo_conhecimentos_aprendidos": "Planejamento estratégico, coordenação, gestão tributária, gestão democrática - participativa, e ética de projetos em gestão"
+    },
+    {
+      "curso": "Tecnologia para Negócios: Ciência de Dados e Big Data Analytics",
+      "instituicao": "Faculdade Metropolitana",
+      "periodo": "Fev/2021 a Fev/2022",
+      "resumo_conhecimentos_aprendidos": "Análise de dados, tecnologia para big data, frameworks para big data, bancos de dados não relacionais, big data e IoT,  ética e legislação"
+    },
+    {
+      "curso": "Bacharelado em Administração",
+      "instituicao": "Universidade Federal Rural de Pernambuco",
+      "periodo": "Jul/2015 a Out/2019",
+      "resumo_conhecimentos_aprendidos": "Administração e negócio no âmbito público e privado"
+    },
+    {
+      "curso": "Técnico em Edificações",
+      "instituicao": "CURSO TÉCNICO ESUDA – CTE / Faculdade Esuda",
+      "periodo": "Fev/2012 a Dez/2014",
+      "resumo_conhecimentos_aprendidos": "Desenho Técnico, Topografia, Desenho Arquitetônico, Mecânica de Solos, Resistência dos Materiais, Tecnologia da Construção, Projetos em Autocad 2D"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Programação de games e desenvolvimento socioemocional",
+      "instituicao": "Meninas in Tech Fly - Playlearn - Toti",
+      "resumo_conhecimentos_interesses": "Game design, Unity, C#, Design thinking, Storytelling, Socioemocional"
+    },
+    {
+      "interesse_evento_curso": "Scrum foundations professional certificate",
+      "instituicao": "CERTIPROF",
+      "resumo_conhecimentos_interesses": "Certificação Profissional em Scrum"
+    },
+    {
+      "interesse_evento_curso": "Criação e Planejamento de Jogos para Educação e Projetos Gamificados",
+      "instituicao": "Playlearn",
+      "resumo_conhecimentos_interesses": "Gamificação e Jogos para Educação, Game Design, Game Concept, Mapas Mentais, Áudio e Vídeo"
+    },
+    {
+      "interesse_evento_curso": "Jogos com Unity",
+      "instituicao": "Playlearn",
+      "resumo_conhecimentos_interesses": "Manipular a Game Engine, Componentes físicos 2D, Sprites animadas, Animações 2D dentro da Unity, Monetização de jogos"
+    },
+    {
+      "interesse_evento_curso": "Blockchain Advanced",
+      "instituicao": "FIAP",
+      "resumo_conhecimentos_interesses": "Fundamentos de blockchain, da criação de smart contracts e de aplicações descentralizadas na plataforma ethereum"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "NODE.js",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "MONGODB",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "C#",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "ARQUITETURA MVC",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "UNITY",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "MySQL",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "COREL DRAW",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "AUTOCAD",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "JAVA",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "SQL SERVER",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "EXPRESS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "POSTMAN",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "COMUNICAÇÃO",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "MONGOOSE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JWT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "WORDPRESS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "INGLÊS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "ESPANHOL",
+      "pontuacao": 8
+    }
+  ]
+}
