@@ -1,0 +1,271 @@
+{
+  "nome_completo": "Ana Carolina Silva Nappo",
+  "o_que_eu_quero": "Estou em transição de carreira buscando minha primeira colocação como programadora backend junior.  Me identifico com empresas que ofereçam oportunidades para crescimento, trabalhar em uma equipe diversa e work-life balance. Disponível para viajar a trabalho.",
+  "cidade_estado:": "São Miguel do Gostoso/RN",
+  "link_linkedin": "https://www.linkedin.com/in/aanacarolina/",
+  "link_github": "https://github.com/aanacarolina",
+  "email": "aanacarolina@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Olá, eu sou a Carol, uma pessoa proativa, confiável e bem humorada",
+    "Trago uma bagagem profissional de mais de 18 anos com experiências no Brasil e no exterior nas áreas de organização de eventos internacionais, gastronomia, administração pública e empreendedorismo. Trabalhei com diversos tipos de softwares específicos e sempre me destaquei por conseguir dominar as tecnologias com facilidade",
+    "Tenho o desejo de fazer a diferença por onde passo. Estou sempre aberta para novas experiências e aprendizados",
+    "Sou apaixonada por viagens e lanches."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Project Lead - freelance",
+      "empresa": "iamtheCODE",
+      "periodo": "Desde Mai/2021",
+      "atividades_desenvolvidas": "Implementar o projeto iamtheFOOD que visa provisão de alimentação adequada e educação nutricional para as meninas e jovens mulheres atendidas pela a fundação",
+      "link": "https://www.iamthecode.org/iamthefood/"
+    },
+    {
+      "cargo_funcao": "Professora de Inglês",
+      "empresa": "Autônoma",
+      "periodo": "Desde Jun/2017",
+      "atividades_desenvolvidas": "Ensino ensino da língua inglesa desde o básico ao avançado",
+      "link": "https://www.superprof.com.br/tutora-ingles-online-venha-ter-fluencia-ganhar-confianca-falar.html"
+    },
+    {
+      "cargo_funcao": "Sócia-Proprietária",
+      "empresa": "N Pizzeria Napoletana",
+      "periodo": "Desde Abr/2017",
+      "atividades_desenvolvidas": "Definir estratégias juntamente com os demais sócios e gerente operacional para gestão de duas unidades da pizzaria em Brasília-DF",
+      "link": "https://www.npizzerianapoletana.com.br/"
+    },
+    {
+      "cargo_funcao": "Consultora de Eventos",
+      "empresa": "Autônoma",
+      "periodo": "Mar/2017 a Jun/2017",
+      "atividades_desenvolvidas": "Conduzir e dar suporte a empresas para organização de eventos sociais e corporativos (Comunicato Eventos Inteligentes, Embaixada da França, Jamburitas Buffet, Reed Exhibitions Brasil, etc..",
+      "link": "n/a"
+    },
+    {
+      "cargo_funcao": "Chef de Partie",
+      "empresa": "Pancho's Mexican Restaurant",
+      "periodo": "Jun/2015 a Jul/2016",
+      "atividades_desenvolvidas": "Responsável pela estação de antepastos, entradas e petiscos",
+      "link": "https://panchos.com.au/"
+    },
+    {
+      "cargo_funcao": "Estagiária",
+      "empresa": "1907",
+      "periodo": "Feb/2016 a Jun/2016",
+      "atividades_desenvolvidas": "Rotação em todas as estações para aprender técnicas de preparações voltadas à alta gastronomia",
+      "link": "https://www.instagram.com/1907restaurant/"
+    },
+    {
+      "cargo_funcao": "Estagiária",
+      "empresa": "Comestibles Catering",
+      "periodo": "Ago/2015 a Nov/2015",
+      "atividades_desenvolvidas": "Rotação em todas as estações para aprender técnicas de preparações voltadas à buffet e catering para eventos",
+      "link": "https://www.comestibles.com.au/"
+    },
+    {
+      "cargo_funcao": "Data Entry",
+      "empresa": "Parlango",
+      "periodo": "Jan/2015 a Jun/2015",
+      "atividades_desenvolvidas": "Compilar informações de escolas de inglês associadas e inserção dos dados no site da empresa",
+      "link": "https://www.facebook.com/parlango"
+    },
+    {
+      "cargo_funcao": "Assistente Comercial e Publicações",
+      "empresa": "Embaixada da Índia no Brasil",
+      "periodo": "Abr/2014 a Nov/2014",
+      "atividades_desenvolvidas": "Responsável pela pesquisa, compilação e tradução de documentos e publicações das relações comerciais entre Brasil-Índia.",
+      "link": "https://eoibrasilia.gov.in/"
+    },
+    {
+      "cargo_funcao": "Assessora Técnica",
+      "empresa": "Ministério da Cultura",
+      "periodo": "Out/2013 a Abr/2014",
+      "atividades_desenvolvidas": "Apoio no desenvolvimento e execução de políticas públicas para promoção da cultura brasileira durante eventos esportivos",
+      "link": "https://www.gov.br/turismo/pt-br/secretaria-especial-da-cultura"
+    },
+    {
+      "cargo_funcao": "Coordenadora de Programação Científica",
+      "empresa": "Kenes Group",
+      "periodo": "Jan/2013 a Jun/2013",
+      "atividades_desenvolvidas": "Organização de programação científica para conferências médicas",
+      "link": "https://kenes-group.com/"
+    },
+    {
+      "cargo_funcao": "Assistente de Credenciamento",
+      "empresa": "Kenes Group",
+      "periodo": "Jun/2012 a Dez/2012",
+      "atividades_desenvolvidas": "Auxiliar no processamento de dados de todas as inscrições das conferências da empresa e fazer setup da estrutura tecnológica para credenciamento onsite",
+      "link": "https://kenes-group.com/"
+    },
+    {
+      "cargo_funcao": "Chefe de Divisão e Gerente substituta",
+      "empresa": "Embratur",
+      "periodo": "Jan/2010 a Ago/2011",
+      "atividades_desenvolvidas": "Implementar políticas públicas e coordenar a equipe de captação e promoção de eventos internacionais no Brasil",
+      "link": "https://embratur.com.br/historia/"
+    },
+    {
+      "cargo_funcao": "Supervisora de turno",
+      "empresa": "Nando's",
+      "periodo": "Abr/2008 a Out/2009",
+      "atividades_desenvolvidas": "Cuidar das rotinas administrativas da loja, satisfação do cliente e supervisão da equipe de funcionários do turno",
+      "link": "https://www.nandos.com.au/"
+    },
+    {
+      "cargo_funcao": "Recepcionista Bilíngue",
+      "empresa": "Petrobras",
+      "periodo": "Abr/2007 a Fev/2008",
+      "atividades_desenvolvidas": "Recepção de visitantes ao prédio da empresa em português e inglês.",
+      "link": "https://petrobras.com.br/pt/"
+    },
+    {
+      "cargo_funcao": "Estagiária",
+      "empresa": "Embratur",
+      "periodo": "Dez/2005 a Fev/2007",
+      "atividades_desenvolvidas": "Apoio no desenvolvimento e execução de políticas públicas para captação e promoção de eventos internacionais no Brasil",
+      "link": "https://embratur.com.br/historia/"
+    },
+    {
+      "cargo_funcao": "Assistente Administrativo",
+      "empresa": "Ministério da Cultura",
+      "periodo": "Nov/2004 a Dez/2005",
+      "atividades_desenvolvidas": "Elaboração de relatórios, apresentações e documentos diversos para comunicação interna e com outros ministérios.",
+      "link": "https://www.gov.br/turismo/pt-br/secretaria-especial-da-cultura"
+    },
+    {
+      "cargo_funcao": "Secretária",
+      "empresa": "David Freitas Corretor de Imóveis",
+      "periodo": "Mar/2002 a Mar/2004",
+      "atividades_desenvolvidas": "Organização e gestão de informações de imóveis para aluguel e venda, controle de pagamentos e vistorias",
+      "link": "n/a"
+    },
+    {
+      "cargo_funcao": "Jovem Aprendiz",
+      "empresa": "Ministério da Cultura",
+      "periodo": "Jan/2002 a Mar/2002",
+      "atividades_desenvolvidas": "Oferecer suporte para tarefas administrativas em geral",
+      "link": "https://www.gov.br/turismo/pt-br/secretaria-especial-da-cultura"
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Desenvolvimento Backend",
+      "instituicao": "{reprograma}",
+      "periodo": "Mar/2021 a Jul/2021",
+      "resumo_conhecimentos_aprendidos": "Lógica de Programação / JavaScript / Node.js / API / MongoDB / GitHub"
+    },
+    {
+      "curso": "Certificate III in Commercial Cookery",
+      "instituicao": "Australian College of Applied Education",
+      "periodo": "Jun/2015 a Jun/2016",
+      "resumo_conhecimentos_aprendidos": "Técnicas de cocção e manipulação de alimentos. Legislação sanitária e práticas sustentáveis. Gerenciamento de pessoal e administração da cozinha"
+    },
+    {
+      "curso": "Diploma in Hospitality Management",
+      "instituicao": "Cambridge International College",
+      "periodo": "Mar/2008 a Set/2009",
+      "resumo_conhecimentos_aprendidos": "Administração de bares e restaurantes."
+    },
+    {
+      "curso": "Bacharelado em Turismo",
+      "instituicao": "UniEuro",
+      "periodo": "Jul/2003 a Dez/2006",
+      "resumo_conhecimentos_aprendidos": "Administração / Sociologia / Geografia / Economia / Logística de Transportes / Sustentabilidade."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Curso: Introduction to Computer Science",
+      "instituicao": "edX - Harvard University CS50",
+      "resumo_conhecimentos_interesses": "Lógica de Programação - Início em Jul/2021"
+    },
+    {
+      "interesse_evento_curso": "Curso: Procedimentos para Sistema de Convênios - SICONV-SERPRO ",
+      "instituicao": "EMBRATUR/SERPRO",
+      "resumo_conhecimentos_interesses": "Treinamento completo para uso sistema de celebração de parcerias com a União"
+    },
+    {
+      "interesse_evento_curso": "Evento: Turismo Acessível",
+      "instituicao": "IESB",
+      "resumo_conhecimentos_interesses": "Gestão de turismo buscando adequação da acessibilidade para pessoas com deficiência e noções de primeiros socorros"
+    },
+    {
+      "interesse_evento_curso": "Interesse: Monitoria Acadêmica",
+      "instituicao": "IESB",
+      "resumo_conhecimentos_interesses": "Monitora voluntária das disciplinas SIAT I e II (Sistemas de Informações Aplicados ao Turismo)"
+    },
+    {
+      "interesse_evento_curso": "Interesse: Voluntária",
+      "instituicao": "Sociedade São Vicente de Paulo",
+      "resumo_conhecimentos_interesses": "Preparação e distribuição de refeições para pessoas em situação de rua."
+    }
+  ],
+  "no_que_me_destaco": [
+ 
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "NODE.JS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "MONGODB",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "PADRÃO MVC",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "FRAMEWORK: EXPRESS.JS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "FRAMEWORK: MONGOOSE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "HEROKU",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "IDE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "EXCEL",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "WORD",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "INDESIGN",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "Sistemas Operacionais: Windows e iOS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "WORDPRESS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "GOOGLE WORKSPACE",
+      "pontuacao": 8
+    }
+  ]
+}
+ 
+
