@@ -1,0 +1,167 @@
+{
+  "nome_completo": "Magnólia Maria de Medeiros",
+  "o_que_eu_quero": "Desejo um ambiente que proporcione o trabalho remoto, que seja seguro e acolhedor, com também a colaboração e o trabalho em equipe. Atualmente me dedicado e focado no estudo de programação do lado do backend (JavaScript, NodeJS, Express, MongoDB) na Reprograma, embora sempre procuro entender, através de leituras, sobre como funciona o frontend, como também compreender sobre acessibilidade, usabilidade e experiência do usuário.",
+  "cidade_estado:": "Currais Novos/RN",
+  "link_linkedin": "https://www.linkedin.com/in/magnoliamedeiros/",
+  "link_github": "https://github.com/magnoliamedeiros",
+  "email": "magnoliamedeiros@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Busco gerenciar de modo saudável e produtivo o stress e a pressão no dia a dia, buscando evoluir constantemente através de leituras, estudos, seja de forma profissional ou pessoal. Acredito e apoio toda e qualquer forma de levar o conhecimento a comunidades menos favorecidas.",
+    "Minha formação inicial foi em Licenciatura em Geografia, profissão não exercida devido à transição de carreira para área de Tecnologia da Informação, e para tal busquei curso técnico e formação superior na área, atualmente estou cursando o 5° período do Curso Superior de Tecnologia em Sistemas para Internet no Instituto Federal de Educação Ciência e Tecnologia do Rio Grande do Norte (IFRN), e também sou estudante de backend numa iniciativa maravilhosa chamada {reprograma}.",
+    "Prezo por momentos com minha família, leituras de livros diversos, assistir filmes e séries nas horas vagas, como também gosto de participar de projetos (pesquisa e extensão) na instituição que atualmente estudo, principalmente quando são projetos voltados para a comunidade menos favorecida da minha cidade."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Técnico de Suporte em TI (Tecnologia da Informação)",
+      "empresa": "CTI Tecnologia da Informação LTDA",
+      "periodo": "Mar/2009 a Jun/2015",
+      "atividades_desenvolvidas": "Suporte técnico presencial e remoto aos usuários, Instalação e configuração remota das aplicações do cliente e configurações em dispositivos de redes, Gerência de equipe de suporte técnico, Instalação e configuração básica de redes.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Professora de Informática Básica",
+      "empresa": "PRONATEC (IFRN)",
+      "periodo": "Nov/2012 a Mar/2013",
+      "atividades_desenvolvidas": "Ministrar aulas sobre o sistema operacional Windows, Ministrar aulas sobre o pacote Office da Microsoft.",
+      "link": "null"
+    },
+    {
+      "cargo_funcao": "Helpdesk",
+      "empresa": "Coordenação de Tecnologia da Informação (IFRN)",
+      "periodo": "Dez/2007 a Jan/2009",
+      "atividades_desenvolvidas": "Suporte técnico aos professores e técnicos administrativos, Manutenção, instalação e configuração de desktops, notebooks e impressoras de rede, Instalação e configuração de softwares institucionais; Manutenção da rede cabeada e sem fio.",
+      "link": "null"
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Curso Superior de Tecnologia em Sistemas para Internet (TSI)",
+      "instituicao": "IFRN",
+      "periodo": "Cursando o 5º período",
+      "resumo_conhecimentos_aprendidos": "O curso de TSI busca formar profissionais para o desenvolvimento de softwares, de interfaces e aplicativos, como também gerenciar e projetar banco de dados diversos."
+    },
+    {
+      "curso": "Backend Todas em Tech",
+      "instituicao": "Reprograma",
+      "periodo": "Previsão de conclusão julho de 2022",
+      "resumo_conhecimentos_aprendidos": "Git e Githug, Lógica de programação, JavaScript, NodeJS, API Rest, MongoDB, Autenticação e autorização com JSON Web Token (JWT)."
+    },
+    {
+      "curso": "Design UX/UI",
+      "instituicao": "Estartando Devs",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Conhecimento em métodos de gestão ágil de projetos, Trabalho em equipe, Princípios e fundamentos de design, Criação de protótipos de sites e aplicativos com base na experiência do usuário (UX)."
+    },
+    {
+      "curso": "Curso de Formação em Programação Básica",
+      "instituicao": "Instituto Metrópole Digital",
+      "periodo": "Fev/2013 a Jun/2013",
+      "resumo_conhecimentos_aprendidos": "Curso de formação básica em programação, com o objetivo de ensinar sobre às Tecnologias da Informação, lógica de programação, programação estruturada e orientação a objetos, como também conceitos de eletricidade, sistemas operacionais e arquitetura de computadores."
+    },
+    {
+      "curso": "Curso Técnico em Informática",
+      "instituicao": "IFRN",
+      "periodo": "Fev/2007 a Fev/2009",
+      "resumo_conhecimentos_aprendidos": "Curso técnico para alunos que já concluíram o ensino médio, com o objetivo de formar profissionais que desenvolvem softwares seguindo especificações e paradigmas da programação, aprendemos a trabalhar com bancos de dados e a gerenciar redes de computadores."
+    },
+    {
+      "curso": "Licenciatura em Geografia",
+      "instituicao": "Universidade Federal do Rio Grande do Norte - UFRN",
+      "periodo": "Mar/2003 a Mar/2007",
+      "resumo_conhecimentos_aprendidos": "Curso de licenciatura como objetivo formar professores para ministrar aulas de Geografia. Embora tenha sido uma experiência riquíssima, a profissão não foi exercida devido à transição de área para Tecnologia da Informação."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "2021 - Projeto de Pesquisa: Análise de viabilidade de automatização simplificada na busca por farmácias e drogarias de plantão: a experiência do usuário em foco",
+      "instituicao": "IFRN",
+      "resumo_conhecimentos_interesses": "A finalidade deste projeto é analisar a viabilidade, através do uso de técnicas de UX - User Experience (Experiência do Usuário), formas de automatizar, simplificar e facilitar o nível de esforço requerido por usuários de farmácias e/ou drogarias na buscar por informações básicas, tais como: qual farmácia está de plantão? qual o endereço e/ou telefone de determinada farmácia? ou mesmo se a farmácia disponibiliza serviço de entrega em domicílio."
+    },
+    {
+      "interesse_evento_curso": "2020 - Curso Online de Introdução ao Git e Controle de Versão",
+      "instituicao": "DIO - Digital Innovation One",
+      "resumo_conhecimentos_interesses": "Aprendemos um pouco da história do Git, como versionar nossos projetos e deixá-lo disponível no GitHub."
+    },
+    {
+      "interesse_evento_curso": "2019 - Projeto de Extensão - Iniciação a lógica de programação, algoritmos e autoria web para escolas públicas de Currais Novos-RN",
+      "instituicao": "IFRN",
+      "resumo_conhecimentos_interesses": "O objetivo do projeto foi promover a oferta de um curso de algoritmos, lógica de programação e autoria web (HTML5, CSS3 e JavaScript) para alunos do 8º e 9º anos, oriundos de escolas públicas do município de Currais Novos-RN, visando não somente o desenvolvimento do raciocínio lógico, mas também despertar nestes o interesse na área de Tecnologia da Informação (TI)."
+    },
+    {
+      "interesse_evento_curso": "2018 - Artigo Científico - TICs na educação: o uso de software livre na promoção da acessibilidade",
+      "instituicao": "Revista Brasileira da Educação Profissional e Tecnológica - RBEPT",
+      "resumo_conhecimentos_interesses": "O artigo descreve uma pesquisa-ação em desenvolvimento através de um projeto de extensão denominado “TICs na educação: o uso de software livre na promoção da acessibilidade”, cuja finalidade é promover a oferta de uma educação verdadeiramente inclusiva no tocante ao uso de tecnologias assistivas como recursos para a inclusão social e participação de alunos com deficiência, mobilidade reduzida ou incapacidade no cotidiano escolar, através da atuação de docentes capacitados no uso de tais tecnologias."
+    },
+    {
+      "interesse_evento_curso": "2018 - Projeto de Extensão - TICs na educação: o uso de software livre na promoção da acessibilidade",
+      "instituicao": "IFRN",
+      "resumo_conhecimentos_interesses": "A finalidade deste projeto foi promover um curso de capacitação para docentes, que atuam em salas de Atendimento Educacional Especializado (AEE), ensinando-os a utilizarem softwares livres com o objetivo de auxiliar no atendimento a alunos com mobilidade reduzida, baixa visão ou qualquer outra incapacidade no cotidiano escolar, como também combater a ociosidade de equipamentos nestas escolas atendidas como a pirataria de softwares que por ventura possam existir nestes ambientes."
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "UX/UI",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "Figma",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JavaScript",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "NodeJS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "Express",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "MongoDB",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "MySQL",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "PostgreSQL",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "Git/GitHub",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "Metodologias Ágeis",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "Acessibilidade",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "Usabilidade",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "Tecnologias Assistivas",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "Linux",
+      "pontuacao": 7
+    }
+  ]
+}
