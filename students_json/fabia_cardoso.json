@@ -1,0 +1,176 @@
+{
+  "nome_completo": "Fábia Emanuele Cardoso Sena",
+  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
+  "cidade_estado:": "Camaçari/BA",
+  "link_linkedin": "https://www.linkedin.com/in/fabiacardoso/",
+  "link_github": "https://github.com/fabiacardoso",
+  "email": "fabiaprojetos@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou bacharel em Design Gráfico desde 2012, atualmente estou fazendo uma transição para a área de tecnologia. Neste momento estou no 5 semestre do curso de Análise e Desenvolvimento de Sistemas da Universidade Católica do Salvador. Iniciei o curso com o objetivo de dar um upgrade na minha profissão, escolhi estudar programação por acreditar no casamento perfeito entre o Design e a Programação."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "CargoUI/UX Designer e FrontEnd - PJ",
+      "empresa": "Open System",
+      "periodo": "nov. de 2020 – o momento",
+      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "CargoUI/UX Designer e FrontEnd - Estágio",
+      "empresa": "Open System",
+      "periodo": "nov. de 2020 – o momento",
+      "atividades_desenvolvidas": "Criação de manuais online em HTML, CSS e JavaScript;, Criação de Landing Pages; Criação de peças para social media; Criação de e-mail marketing; Prototipação de aplicativos para plataforma Android; Montagem do novo site da empresa com WordPress; Atualização do site; Gestão do Google Analytics dos sites da empresa.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Design Gráfico",
+      "instituicao": "Universidade Jorge Amado - Unijorge",
+      "periodo": "Jul/2008 a Ago/2012",
+      "resumo_conhecimentos_aprendidos": "O profissional de Design graduado tem uma formação ampla e é capaz de gerir e desenvolver projetos. Com ênfase em Identidades Corporativas, Interfaces Eletrônicas, Editoração, Sinalização e Embalagem, essa formação desenvolve um perfil versátil e atualizado, com domínio das principais técnicas e ferramentas tecnológicas, e é atento às atuais exigências do ambiente corporativo."
+    },
+    {
+      "curso": "Analise e Desenvolvimento de Sistemas",
+      "instituicao": "Universidade Católica do Salvador",
+      "periodo": "Jul/2019 a Jun/2022",
+      "resumo_conhecimentos_aprendidos": ""
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Bootcamp de Back-End",
+      "instituicao": "{reprograma}",
+      "resumo_conhecimentos_interesses": "O Bootcamp é uma iniciativa da {reprograma} e do BID Lab, Laboratório de Inovação do Grupo Banco Interamericano de Desenvolvimento. Conteúdos abordados: HTML5, CSS, JavaScript EC6, API, Testes Unitários, SCRUM, Node.js, MongoDB"
+    },
+    {
+      "interesse_evento_curso": "JavaScript Completo ES6",
+      "instituicao": "Origamid",
+      "resumo_conhecimentos_interesses": ""
+    },
+    {
+      "interesse_evento_curso": "UI Design Avançado",
+      "instituicao": "Origamid",
+      "resumo_conhecimentos_interesses": ""
+    },
+    {
+      "interesse_evento_curso": "UX Design Heurísticas",
+      "instituicao": "Origamid",
+      "resumo_conhecimentos_interesses": ""
+    },
+    {
+      "interesse_evento_curso": "Web Design Completo: Adobe XD, HTML5, CSS3 e JavaScript",
+      "instituicao": "Origamid",
+      "resumo_conhecimentos_interesses": ""
+    },
+    {
+      "interesse_evento_curso": "Bootstrap 4",
+      "instituicao": "Origamid",
+      "resumo_conhecimentos_interesses": ""
+    },
+    {
+      "interesse_evento_curso": "UX / UI: Fundamentos para o Design de Interface",
+      "instituicao": "Universidade de São Paulo - USP",
+      "resumo_conhecimentos_interesses": ""
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "SASS",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "LESS",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "BEM",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "Gulp",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "WORDPRESS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "MySQL",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "FTP",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "PHOTOSHOP",
+      "pontuacao": 10
+    },
+    {
+      "habilidade_ferramenta": "ILUSTRATOR",
+      "pontuacao": 10
+    },
+    {
+      "habilidade_ferramenta": "ADOBE XD",
+      "pontuacao": 10
+    },
+    {
+      "habilidade_ferramenta": "FIGMA",
+      "pontuacao": 10
+    }
+  ]
+}
