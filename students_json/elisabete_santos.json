@@ -1,0 +1,135 @@
+{
+    "nome_completo": "Elisabete Alves dos Santos",
+    "o_que_eu_quero": "Quero trabalhar como desenvolvedora back-end, aprimorar e ampliar meus conhecimentos na área; contribuindo, assim, com o crescimento da empresa na qual estarei inserida e impactando positivamnete a vida das pessoas.",
+    "cidade_estado:": "Olinda/PE",
+    "link_linkedin": "https://www.linkedin.com/in/elisabete-alves-675637135/",
+    "link_github": "https://github.com/elisabetealves",
+    "email": "lizzbeth.lizz.diaz@gmail.com",
+    "um_pouco_sobre_mim": [
+      "Considero-me uma pessoa motivada e focada, apaixonada pela tecnologia em usá-la para criar soluções para as pessoas. Meu maior atributo é a derteminação em conquistar objetivos e metas.",
+      "No momento estou terminando minha licenciatura em Letras-Inglês, mas estou mudando de área pretendo fazer uma gradução de engenharia de software, pois a tecnologia é o que desejo e quero fazer aquilo que realmente me inspira e me traz paz.",
+      "Adoro estudar, aprender, colaborar e compartilhar. Sempre estou receptiva a novas possibilidades e decobertas, visando à consolidação de conhecimentos e à resoluções de problemas.",
+      "No meu tempo livre prezo por está com minha família, gosto de viajar, ler, ouvir músicas e assistr séries."
+    ],
+    "no_que_ja_trabalhei": [
+      {
+        "cargo_funcao": "E-commerce (freelancer) ",
+        "empresa": null,
+        "periodo": "mar/2013 a jan/2015",
+        "atividades_desenvolvidas": "Compra e venda de produtos importados, edições e publicações dos anúncios, fazer toda área financeira e administrativa.",
+        "link": null
+      }
+    ],
+
+    "o_que_ja_estudei": [
+      {
+        "curso": "Curso de Back-end",
+        "instituicao": "Reprograma",
+        "periodo": "Mar/2021 a jul/2021",
+        "resumo_conhecimentos_aprendidos": "O conteúdo do curso foi focado no desenvolvimneto Back-end, aprendendo lógica de proframação, git e GitHub, node.js, JavaScript, MongoDB."
+      },
+      {
+        "curso": "Letras-Inglês",
+        "instituicao": "UNINASSAU",
+        "periodo": "Fev/2018 a Dez/2021",
+        "resumo_conhecimentos_aprendidos": "Conhecimentos pedagógicos, liguístico e literário; estuda os aspectos estruturais, discursivos, culturais e metalinguístico da língua."
+      },
+      {
+        "curso": "Inglês",
+        "instituicao": "Wizard",
+        "periodo": "Fev/2015 a Dez/2019",
+        "resumo_conhecimentos_aprendidos": "Inglês básico e Intermediário"
+      }
+    ],
+    "meus_outros_aprendizados_e_interesses": [
+      {
+        "interesse_evento_curso": "Programador web",
+        "instituicao": "IFsul",
+        "resumo_conhecimentos_interesses": "Lógica de peogramação, banco de dados e JavaScript"
+      },
+      {
+        "interesse_evento_curso": "Lógica de programação",
+        "instituicao": "Fuctura",
+        "resumo_conhecimentos_interesses": "Introdução à lógica de programação, algoritmo, constante, variáveis, expressões aritmétricas, blocos de códigos, estrutura de controle e de dados"
+      },
+      {
+        "interesse_evento_curso": "Imersão dev",
+        "instituicao": "Alura",
+        "resumo_conhecimentos_interesses": "HTML, CSS e JavaScript"
+      },
+      {
+        "interesse_evento_curso": "Git e GitHub",
+        "instituicao": "Gama Academy",
+        "resumo_conhecimentos_interesses": "o que é git, comandos do git e da plataforma GitHub, Ignore, Gitflow"
+      },
+      {
+        "interesse_evento_curso": "Hackathon - Programação",
+        "instituicao": "FCamara",
+        "resumo_conhecimentos_interesses": "Desencolvimento de uma aplicação usando HTML, CSS e JavaScript"
+      },
+      {
+        "interesse_evento_curso": "Lógica de programação",
+        "instituicao": "Gama Academy",
+        "resumo_conhecimentos_interesses": "Algortimos, variáveis, constantes, decisões e repetições"
+      }
+    ],
+    "no_que_me_destaco": [
+      {
+        "habilidade_ferramenta": "HTML",
+        "pontuacao": 3
+      },
+      {
+        "habilidade_ferramenta": "CSS",
+        "pontuacao": 3
+      },
+      {
+        "habilidade_ferramenta": "MONGODB",
+        "pontuacao": 7
+      },
+      {
+        "habilidade_ferramenta": "MONGOOSE",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "JAVASCRIPT",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "NODE",
+        "pontuacao": 9
+      },
+      {
+        "habilidade_ferramenta": "GIT/GITHUB",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "APLICATIVOS DO GOOGLE",
+        "pontuacao": 7
+      },
+      {
+        "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+        "pontuacao": 7
+      },
+      {
+        "habilidade_ferramenta": "PACOTE OFFICE MICROSOFT",
+        "pontuacao": 9
+      },
+      {
+        "habilidade_ferramenta": "POSTMAN",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "VISUAL STUDIO CODE",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "EXPRESS",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "WORDPRESS",
+        "pontuacao": 3
+      }  
+    ]
+  }
+  
