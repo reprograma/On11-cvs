@@ -1,0 +1,117 @@
+{
+  "nome_completo": "Nathalia Micheloni ",
+  "o_que_eu_quero": "Meu foco é desenvolver uma carreira em Desenvolvimento Back-end.",
+  "cidade_estado:": "São Paulo/SP",
+  "link_linkedin": "https://www.linkedin.com/in/nathalia-micheloni/",
+  "link_github": "https://github.com/NathiMick",
+  "email": "micheloni@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Atualmente em transição de carreira. Da área Jurídica para TI.",
+    "Tenho conhecimentos em desenvolvimento web com JavaScript,",
+    "Next.JS e Node.JS."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Auxiliar Paralegal Senior",
+      "empresa": "APPROVED Legalização",
+      "periodo": "04/2018 (Atual)",
+      "atividades_desenvolvidas": [
+        "Abertura, alteração e encerramento de empresas.",
+         "Experiência com Juntas Comerciais, Receita Federal,",
+         "Secretarias da Fazenda e Prefeituras, lidando diretamente com o cliente."
+      ]
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Desenvolvedora Back-end 2021",
+      "instituicao": "[REPROGRAMA]",
+      "resumo_conhecimentos_interesses": "Desenvolvimento back-end utilizando JavaScrpit, Node.JS, e Next.JS"
+    },
+    {
+      "interesse_evento_curso": "Ignite 2021",
+      "instituicao": "RockectSeat",
+      "resumo_conhecimentos_interesses": "Curso Intermediário voltado a desenvolvimento Back-end, focando em Javascript e Node.JS"
+    },
+    {
+      "interesse_evento_curso": "Discovery 2021",
+      "instituicao": "RockectSeat",
+      "resumo_conhecimentos_interesses": "Curso introdutório de Desenvolvimento WEB voltado a desenvolvimento Back-end, focando em Javascript e Node.JS"
+    },
+    {
+      "interesse_evento_curso": "Administração de Sistemas Linux",
+      "instituicao": "Ministrado Por Acacio Lima Rocha",
+      "resumo_conhecimentos_interesses": "Curso básico de administração de sistema Linux"
+    },
+    {
+      "interesse_evento_curso": "CS50 2020 - Introduction to Computer Science",
+      "instituicao": "Harvard",
+      "resumo_conhecimentos_interesses": "Curso introdutório de Ciências da computação, focando em: C, JavaScript, HTML, CSS e Python"
+    },
+    {
+      "interesse_evento_curso": "Semana OmniStack 2020",
+      "instituicao": "RockectSeat",
+      "resumo_conhecimentos_interesses": "Evento focado em desenvolvimento de aplicação WEB e Mobile, trabalhando no back e front-End (FullStack)"
+    },
+    {
+      "interesse_evento_curso": "Linguagem Java Orientada a objeto - 2019",
+      "instituicao": "CursoEmVideo.com",
+      "resumo_conhecimentos_interesses": "Curso introdutório de java orientado a objeto"
+    },
+    {
+      "interesse_evento_curso": "HTML5, CSS3 e JavaScript - 2019",
+      "instituicao": "CursoEmVideo.com",
+      "resumo_conhecimentos_interesses": "Curso de Desenvolvimento WEB utilizando JavaScript, HTML5 e CSS3"
+    },
+    {
+      "interesse_evento_curso": "Inglês - 5 anos",
+      "instituicao": "WIZARD",
+      "resumo_conhecimentos_interesses": "Curso de Inglês"
+    },
+    {
+      "interesse_evento_curso": "Francês",
+      "instituicao": "WIZARD",
+      "resumo_conhecimentos_interesses": "Curso de Francês"
+    }
+
+
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "Inglês",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "JavaScript",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "Node",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "Next.JS",
+      "pontuacao": 4
+    },
+    {
+      "habilidade_ferramenta": "MySQL",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "HTML5",
+      "pontuacao": 4
+    },
+    {
+      "habilidade_ferramenta": "CSS3",
+      "pontuacao": 4
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "Sistemas Linux",
+      "pontuacao": 5
+    }
+  ]
+}
