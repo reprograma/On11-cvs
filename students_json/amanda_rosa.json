@@ -1,0 +1,201 @@
+{
+  "nome_completo": "Amanda Gadelha Ferreira Rosa",
+  "o_que_eu_quero": "Quero trabalhar como desenvolvedora back-end num ambiente que possibilite crescimento e aprendizado na área, além de poder integrar conhecimentos com a bagagem que trago de experiências passadas",
+  "cidade_estado:": "Parauapebas/PA",
+  "link_linkedin": "https://www.linkedin.com/in/amanda-gadelha-ferreira-rosa-a49278bb/",
+  "link_github": "https://github.com/bagelha",
+  "email": "bagelha@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou engenheira de produção de formação e segui caminho na área acadêmica, cursei mestrado e atualmente estou no doutorado. Movida pela curiosidade, acredito que o ensino e a pesquisa podem levar pessoas para novos caminhos. Posso falar isso porque foi assim que saí de Parauapebas-PA, passei por Teresina-PI e fui parar em Recife-PE. E também foi assim que me vi diante do uso de técnicas e ferramentas de tomada de decisão e da necessidade de aprender programação. Gosto do que faço e do que sou, mas busco a transição de carreira para a área de tecnologia pelo mundo de possibilidades e oportunidades de mercado e de crescimento profissional.",
+
+    "Além disso, aprender sem medo de errar e ter a liberdade para explorar novos caminhos é algo que me encanta porque permite o diálogo e troca de ideias e possibilita a real criação de valores e é isso que quero encarar como programadora. Algumas das coisas que carrego é o gosto pelo desafio do novo, de ir atrás das coisas, passar para os outros o que sei e de dar e receber feedback. E, nesse momento que busco a transição de carreira para inserção no mercado, acredito que esses pontos que trago da academia podem agregar à profissional que busco ser.",
+
+    "Mas nem tudo é trabalho e estudo. E mesmo que pareça clichê, vou concordar com o pensamento de que tudo é questão de equilíbrio. Assim, curto os momentos livres para descansar assistindo filme e passar momentos com a família mesmo que seja por vídeo chamada, agora não porque durante esse ano da pandemia estou realizando as atividades em home-office. Para mim é muito importante manter o contato e apoiar aqueles que sempre estão comigo."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Bolsista de doutorado",
+      "empresa": "Universidade Federal de Pernambuco - UFPE / FACEPE",
+      "periodo": "Mar/2019 a Atualmente",
+      "atividades_desenvolvidas": "Bolsista com projeto da área de modelagem e projeção de cenaŕios no Programa de Pós-Gradução em Engenharia de Produção da UFPE",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Bolsista de Mestrado",
+      "empresa": "Universidade Federal de Pernambuco - UFPE/ CAPES",
+      "periodo": "Mar/2017 a Fev/2019",
+      "atividades_desenvolvidas": "Bolsista com projeto na área de apoio a tomada de decisão espacial. Durante esse período foi realizada a atividade de estágio à docência na disciplina de Gestão da Produção I.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Estagiária",
+      "empresa": "TOTVS",
+      "periodo": "Mar/2016 a Dez/2016",
+      "atividades_desenvolvidas": "Atividade de aprendizado e desenvolvimento no sistema de gestão empresaria TOTVS Protheus",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Bolsista de iniciação científica",
+      "empresa": "Universidade Federal do Piauí - UFPI/CNPq-MCT",
+      "periodo": "Ago/2015 a Jul/2015",
+      "atividades_desenvolvidas": "Execução de atividades junto a controladoria no cálculo de tarifas e documentação contábil ",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Voluntária - feira de profissões",
+      "empresa": "Universidade Federal do Piauí - UFPI",
+      "periodo": "Abr/2015 a Mai/2015",
+      "atividades_desenvolvidas": "Participação de reunião e apresentação do curso para alunos do ensino médio ",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Voluntária - monitoria de disciplina",
+      "empresa": "Universidade Federal do Piauí - UFPI",
+      "periodo": "Abr/2014 a Ago/2014",
+      "atividades_desenvolvidas": "Apoio ao professor da disciplina de Eletricidade I ",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Voluntária - iniciação científica voluntária",
+      "empresa": "Universidade Federal do Piauí - UFPI",
+      "periodo": "set/2013 a Ago/2014",
+      "atividades_desenvolvidas": "Estudo de proposição de modelo para a cadeia",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Todas em Tech",
+      "instituicao": "{reprograma}",
+      "periodo": "Mar/2021 a Jul/2021",
+      "resumo_conhecimentos_aprendidos": "Bootcamp voltado ao ensino de programação e desenvolvimento back-end "
+    },
+    {
+      "curso": "Especialização em Inteligência artificial e Aprendizado de Máquina",
+      "instituicao": "PUC-Minas (virtual)",
+      "periodo": "Jul/2020 a Mar/2021",
+      "resumo_conhecimentos_aprendidos": "Curso voltado à análise e modelagem de dados"
+    },
+    {
+      "curso": "Doutorado em Engenharia de Produção",
+      "instituicao": "Universidade Federal de Pernambuco - UFPE",
+      "periodo": "Mar/2019 a Fev/2023",
+      "resumo_conhecimentos_aprendidos": "Pesquisa e inovação na área em processos de tomada de decisão"
+    },
+    {
+      "curso": "Mestrado em Engenharia de Produção",
+      "instituicao": "Universidade Federal de Pernambuco - UFPE",
+      "periodo": "Mar/2017 a Fev/2019",
+      "resumo_conhecimentos_aprendidos": "Desenvolvimento e aplicação de método holístico de tomada de decisão considerando fatores espaciais"
+    },
+    {
+      "curso": "Engenharia de Produção",
+      "instituicao": "Universidade Federal do Piauí - UFPI",
+      "periodo": "Mar/2012 a Fef/2017",
+      "resumo_conhecimentos_aprendidos": "Curso de formação de profissional em Engenharia de Produção com capacitação em área industrial e de pesquisa, abrangendo conteúdos de pesquisa operacional, logística, gestão, produto, qualidade, planejamento e controle e sustentabilidade"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Google IT Automation with Python",
+      "instituicao": "Coursearea",
+      "resumo_conhecimentos_interesses": "Aprendizado de Python para automação de tarefas"
+    },
+    {
+      "interesse_evento_curso": "Eu Progr{amo}",
+      "instituicao": "Programaria",
+      "resumo_conhecimentos_interesses": "Introdução à HTML, CSS e JavaScript"
+    },
+    {
+      "interesse_evento_curso": "Curso de programação em Pyhton",
+      "instituicao": "CECINE/UFPE",
+      "resumo_conhecimentos_interesses": "Introdução à linguagem e conceitos de Python"
+    },
+    {
+      "interesse_evento_curso": "Semana de Data Science",
+      "instituicao": "Minerando dados (online)",
+      "resumo_conhecimentos_interesses": "Uso de Python para a manipulação de dados"
+    },
+    {
+      "interesse_evento_curso": "Curso de Excel Avançado para Engenharia",
+      "instituicao": "Crea - PI",
+      "resumo_conhecimentos_interesses": "Uso do software Excel para a manipulação de dados e planilhas"
+    },
+    {
+      "interesse_evento_curso": "Simpósio Brasileiro de Pesquisa Operacional - SBPO",
+      "instituicao": "SOBRAPO",
+      "resumo_conhecimentos_interesses": "Evento brasiliero de network e exposição de trabalhos relacionados à Pesquisa Operacional em diferentes contextos, possibilitando banchmarking e compartilhamento de técnicas na solução de problemas"
+    },
+    {
+      "interesse_evento_curso": "Informs Annual Meeting",
+      "instituicao": "The Institute for Operations Research and the management Sciences - INFORMS",
+      "resumo_conhecimentos_interesses": "Evento internacional de network e exposição de trabalhos em Pesquisa Operacional e Gestão, possibilitando banchmarking e compartilhamento de técnicas na solução de problemas"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "Python",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "Autocad",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "QGIS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JavaScript",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "Node",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "MongoDB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "Mongoose",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "Arquitetura MVC",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "Express",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "Insomnia",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "Inglês",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "Espanhol",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "Comunicação",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 6
+    }
+  ]
+}
