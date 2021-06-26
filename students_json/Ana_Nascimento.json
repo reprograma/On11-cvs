@@ -1,0 +1,165 @@
+{
+  "nome_completo": "Ana Claudia do Nascimento",
+  "o_que_eu_quero": "conseguir fazer minha trasição de carreira e iniciar minha carreira de desenvolvedora backend",
+  "cidade_estado:": "Recife/Pe",
+  "link_linkedin": "https://www.linkedin.com/in/ana-claudia-nascimento-24452b41/",
+  "link_github": "https://github.com/ANANUTRI",
+  "email": "ananutri6@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou cristã, casada, mãe de dois filhos",
+    "cursei gestão hospitalar mas, naõ conclui, em seguida iniciei o curso de bacharel em nutrição e conluir a dois anos.",
+    "Nas horas de lazer gosto de ir a igreja, ao cinema,parque com meus filhoe com meu marido, também gosto muito de almoçar aos domingos na casa da minha sogra.",
+    "Sou uma pessoa que batalha muito pra alcaçar seus objetivos , hoje tenho um propósito e espero conseguir alcançá-lo que é fazer minha transição de carreira e conseguri me tornar uma desenvolvedora."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Faturista Convênio",
+      "empresa": "Sos Renal Services",
+      "periodo": "Dez/2006 a Nov/2013",
+      "atividades_desenvolvidas": "Desenvolvia o fechamento das contas de hemodiálise, realizava relatórios, recurso de glosa, atendimento telefônico.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Rececepcionista",
+      "empresa": "Sos Renal Services",
+      "periodo": "Jun/2003 a Nov/2006",
+      "atividades_desenvolvidas": "Marcação de consultas,organização de prontuários dos pacientes hemodialíticos, pesagem dos pacientes, auxiliava na organização da coleta de exames, digitação dos resultados de exames dos pacientes.",
+      "link": "http://renalservices.com.br"
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Bacharel em Nutrição ",
+      "instituicao": "Uninassau",
+      "periodo": "Mar/2014 a Nov/2017",
+      "resumo_conhecimentos_aprendidos": "Conhecimento sobre alimentação e toda sua importância na saúde e bem está das pessoas"
+    },
+    {
+      "curso": "Bacharel em Nutrição",
+      "instituicao": "Faculdade Boa Viagem",
+      "periodo": "Mar/2012 a Nov/2012",
+      "resumo_conhecimentos_aprendidos": "Não concluí o curso"
+    },
+    {
+      "curso": "Faturamento Hospitalar",
+      "instituicao": "Muricy Consultoria",
+      "periodo": "Nov/ 2011",
+      "resumo_conhecimentos_aprendidos": "Técnicas de Faturamento hospitalar"
+    },
+    { 
+      "curso": "Faturamento Hospitalar",
+      "instituicao": "SL Consultoria e Treinamento",
+      "periodo": "Mar/2010 a Jul/2010",
+      "resumo_conhecimentos_aprendidos": "Técnicas de faturamento hospitalar"
+    },
+    {
+      "curso": "Atendente Administrativo com Informática",
+      "instituicao": "Escola Moacir do Rêgo Maciel",
+      "periodo": "Fev/2002 a Abr/2002",
+      "resumo_conhecimentos_aprendidos": "Técnicas administrativas com informática" 
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso":"curso online de javascript",
+      "instituicao":"Reprograma",
+      "resumo_conhecimentos_interesses":"Entendimento sobre a sintaxe do javascript" 
+      },
+    {
+      "interesse_evento_curso": "",
+      "instituicao": "",
+      "resumo_conhecimentos_interesses": ""
+    }
+  ],
+  
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "SASS",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 4
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 4
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "WORDPRESS",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "PHP",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "MySQL",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "FTP",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "PHOTOSHOP",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "ILUSTRATOR",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "INDESIGN",
+      "pontuacao": 0
+    }
+  ]
+}
