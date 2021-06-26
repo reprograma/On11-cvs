@@ -1,0 +1,200 @@
+{
+  "nome_completo": "Karlla Souza de Oliveira Nascimento",
+  "o_que_eu_quero": "Estou em busca de uma oportunidade na área de tecnologia, em um ambiente socialmente responsável e que promova impacto na sociedade. Onde possa ser uma extensão de quem sou, aperfeiçoar meus conhecimentos, compartilhar o que sei e aprender novas habilidades.",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "www.linkedin.com/in/karlla-nascimento/",
+  "link_github": "https://github.com/KarllaNascimento",
+  "email": "karllas.nascimento@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Movida pelo inconformismo das injustiças sociais que nos rodeiam, escolhi atuar na área de comunicação com o objetivo de ampliar o alcance das vozes marginalizadas.",
+    "Na universidade, atuei em programas de inclusão para o uso da tecnologia na vida de crianças e jovens. Fora dela, trabalhei pela inserção de homens e mulheres do campo no mundo virtual. Agora, desejo alcançar e transformar a vida das pessoas através do desenvolvimento de sistemas.",
+    "Por gostar de estar sempre envolvida em ações sociais, consegui desenvolver muito bem a minha capacidade de adaptabilidade, inovação e comunicação assertiva."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Assistente Parlamentar",
+      "empresa": "Assembleia Legislativa de Pernambuco",
+      "periodo": "Jan/2020 - atual",
+      "atividades_desenvolvidas": "Trabalho com a criação de conteúdo e as estratégias adotadas para a sua divulgação, assim como a elaboração e gerenciamento de anúncios no Facebook e o desenvolvimento de relatórios com base nas métricas alcançadas. Também sou responsável por ministrar oficinas de comunicação em diversos municípios do interior do estado, com o objetivo de promover a inclusão digital bem como a criação, roteirização e edição de vídeos e podcasts.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Cientista Pesquisadora",
+      "empresa": "CNPq",
+      "periodo": "Ago/2019 a jul/2020",
+      "atividades_desenvolvidas": "Desenvolvimento da pesquisa sobre os Elementos Narrativos da Série De TV Black Mirror: o reconhecimento do tempo pelos espectadores do seriado. Tendo como objetivo central analisar e produzir relatórios que pudessem comprovar que os impactos do uso errado da tecnologia não fazem parte apenas do futuro e sim do nosso presente.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Analista de Comunicação",
+      "empresa": "CERS",
+      "periodo": "Mar/2015 a set/2019",
+      "atividades_desenvolvidas": "Fui responsável pelo desenvolvimento de campanhas de vendas que tinha como objetivo atrair mais clientes e elevar os ganhos do negócio em um curto período de tempo. Participei em cooperação com as áreas de atendimento, pedagógico e TI, para elaboração e desenvolvimento das assinaturas do CERS Play. Contribui para a construção da grade de conteúdo e identidade visual das redes sociais e sites, assim como na elaboração dos textos a serem utilizados. No CERS, iniciei minha trajetória como Atendente de CRM, fui promovida para Consultora de Atendimento e encerrei o ciclo ocupando o cargo de Analista.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Projeto Voluntário",
+      "empresa": "Rádio Comunitária EcoCultural",
+      "periodo": "Fev/2018 a Jul/2019",
+      "atividades_desenvolvidas": "Durante a graduação intermediei uma ação entre as alunas de comunicação da UNICAP e a Rádio EcoCultural. O objetivo era conscientizar jovens em situação de vulnerabilidade sobre a importância de estarem inseridos nas plataformas digitais, como forma de dar visibilidade às dificuldades que eles enfrentavam nas comunidades em que estavam inseridos. Também prestamos oficinas ensinando sobre a importância da fotografia como ferramenta de denúncia e o uso do celular para gravação de programas informativos.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Projeto Voluntário",
+      "empresa": "Campanha 1ª Infância",
+      "periodo": "Fev/2018 a Set/2018",
+      "atividades_desenvolvidas": "Atuei como monitora na realização de oficinas de comunicação para jovens e crianças em situação de vulnerabilidade realizadas em parceria com o Centro de Cultura Luiz Freire. Ensinamos o uso da criatividade como ferramenta de comunicação, os conceitos de informática básica para a criação de artes com o uso da plataforma Canvas e a gravação de spots de rádio para divulgação de ações na comunidade.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Todas em Tech - Back-End",
+      "instituicao": "{reprograma} (342h)",
+      "periodo": "Mar/2021 a Jul/2021",
+      "resumo_conhecimentos_aprendidos": "Bootcamp de desenvolvimento Back-end que mostrou na prática a importância da dedicação contínua e da capacidade de se reinventar a cada semana. Durante 18 semanas fui apresentada a novos conteúdos e recebi novos desafios que exigiam autodisciplina para serem realizados. Uma verdadeira imersão que reforçou a importância do apoio coletivo no processo de aprendizagem."
+    },
+    {
+      "curso": "Bootcamp Desenvolvedor(a) NODE.JS",
+      "instituicao": "IGTI (148h)",
+      "periodo": "Mai/2021 a Jul/2021",
+      "resumo_conhecimentos_aprendidos": "Bootcamp com o objetivo oferecer uma formação prática e intensiva, com a linguagem de programação JavaScript e a ferramenta Node.js, utilizando as melhores ferramentas do mercado e boas práticas de codificação."
+    },
+    {
+      "curso": "Comunicação Social - Jornalismo",
+      "instituicao": "Universidade Católica de Pernambuco",
+      "periodo": "Jan/2017 a Jan/2022",
+      "resumo_conhecimentos_aprendidos": "O curso me ensinou a olhar para o mundo sobre uma perspectiva mais ampla e mais crítica, aumentando a minha habilidade analítica de enxergar os fenômenos do cotidiano. Foi neste período que me percebi cada vez mais apaixonada por inovação e pelas possibilidades que a tecnologia pode proporcionar ao mundo."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Hiring Coders (em curso)",
+      "instituicao": "Gama Academy",
+      "resumo_conhecimentos_interesses": "Html, CSS, Bootstrap, Javascript, React, Dados, Arquitetura, Node.js e Testes."
+    },
+    {
+      "interesse_evento_curso": "Algoritmo e Lógica de Programação do Absoluto Zero (17.5h)",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Algoritmos, Lógica de Programação, Javascript, Funções, Estruturas de Controle, Estruturas de Repetição, Operadores"
+    },
+    {
+      "interesse_evento_curso": "Javascript (40h)",
+      "instituicao": "Curso em Vídeo",
+      "resumo_conhecimentos_interesses": "Algoritmos, Lógica de Programação e ECMAScript, a versão padronizada do JS "
+    },
+    {
+      "interesse_evento_curso": "MongoDB do básico ao avançado (18,5h)",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Gerenciamento de bancos de dados e collections, CRUD, tipos de dados, queries em arrays e documents, aggregation frameworks e mongoose;"
+    },
+    {
+      "interesse_evento_curso": "Web Development - Frontend (32h)",
+      "instituicao": "Cel.Lep e Estação Hack",
+      "resumo_conhecimentos_interesses": " Visão Geral das principais tecnologias da Web; Introdução ao HTML5, CSS3 e ao JavaScript."
+    },
+    {
+      "interesse_evento_curso": "UI/UX e Protótipos - Websites (32h)",
+      "instituicao": "Cel.Lep e Estação Hack",
+      "resumo_conhecimentos_interesses": "Introdução ao Design e ao UIUX; Visão geral dos frameworks front-end mais populares (Bootstrap, Materialize); Protótipo interativo."
+    },
+    {
+      "interesse_evento_curso": "DevOps & Agile Culture (60h)",
+      "instituicao": "FIAP",
+      "resumo_conhecimentos_interesses": "Scrum Framework, Método Kanban, Métricas e Documentação."
+    },
+    {
+      "interesse_evento_curso": "Fundamentos AWS (em curso)",
+      "instituicao": "Escola da Nuvem",
+      "resumo_conhecimentos_interesses": "Noções oniciais para utilizar os principais recursos e serviços da AWS."
+    },
+    {
+      "interesse_evento_curso": "Criando Infra na Nuvem (em curso)",
+      "instituicao": "Recode",
+      "resumo_conhecimentos_interesses": "Computação em Nuvem, sistema Operacional Linux e Windows, Servidores Web e DevOps."
+    },
+    {
+      "interesse_evento_curso": "LGPD e Privacidade",
+      "instituicao": "WoMakersCode",
+      "resumo_conhecimentos_interesses": "Privacidade de dados e motivos para se preocupar com a LGPD."
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "JAVASCRIPT", 
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "NODE.JS", 
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "MONGODB", 
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "ALGORITMOS E LÓGICA DE PROGRAMAÇÃO", 
+      "pontuacao": 10
+    },
+    {
+      "habilidade_ferramenta": "API RESTFUL", 
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB", 
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "LGPD", 
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", 
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "AWS",  
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "MySQL", 
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", 
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "UI/UX DESIGN", 
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "FIGMA", 
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "MICROSOFT AZURE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "INGLÊS", 
+      "pontuacao": 8
+    }, 
+    {
+      "habilidade_ferramenta": "EXPRESS", 
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "MONGOOSE", 
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "MVC", 
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "POSTMAN", 
+      "pontuacao": 9
+    }
+  ]
+}
