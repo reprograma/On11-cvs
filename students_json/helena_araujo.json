@@ -1,0 +1,137 @@
+{
+  "nome_completo": "Helena de Araújo",
+  "o_que_eu_quero": "Conseguir minha primeira experiência na área de tecnologia, complementando meu conhecimento em design à esta transição para crescer profissionalmente, conhecer mais pessoas experientes na área, e trabalhar no desenvolvimento de projetos aplicados na vida real em um ambiente que tenha como valor a diversidade",
+  "cidade_estado:": "Lorena/SP",
+  "link_linkedin": "https://www.linkedin.com/in/helena-araújo-9b4a48210/",
+  "link_github": "https://github.com/helena-araujo",
+  "email": "helenadearaujo98@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou uma pessoa apaixonada por criação, com hiperfoco, mas flexível e sempre disposta para aprender e explorar meus interesses",
+    "Dirigi meu TCC do curso de Informática para Internet em 2015, um sistema de controle para estoque de baterias automotivas que fiz com mais 3 colegas. Em Abril de 2019 me mudei para Curitiba, Paraná, e comecei a trabalhar como Ilustradora Freelancer. Em Agosto do mesmo ano comecei o curso de Bacharelado em Design na UTFPR",
+    "Adoro caminhar para refrescar minha mente, é também um momento em que costumo fotografar paisagens e coisas que me inspiram a escrever e pintar. Além disso, reservo um período da minha rotina para meditar e cozinhar algo diferente quando possível. Quando não estou fazendo essas atividades, estou disponível no Discord para conversar e jogar"
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Ilustradora Freelancer",
+      "empresa": null,
+      "periodo": "Abr/2019 a atualmente",
+      "atividades_desenvolvidas": "Comissão de artes para canais do YouTube, identidade visual e diversos",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Informática para Internet",
+      "instituicao": "Etec Padre Carlos Leôncio da Silva Técnico",
+      "periodo": "Jan/2013 a Dez/2015",
+      "resumo_conhecimentos_aprendidos": "Desenvolvimento de sistemas web e suporte de TI"
+    },
+    {
+      "curso": "Bacharelado em Design",
+      "instituicao": "Universidade Tecnológica Federal do Paraná",
+      "periodo": "Ago/2019 a Dez/2024",
+      "resumo_conhecimentos_aprendidos": "Desenvolvimento de projetos gráficos, de produtos e de comunicação visual"
+    },
+    {
+      "curso": "Desenvolvimento back-end",
+      "instituicao": "{reprograma}",
+      "periodo": "Mar/2021 a Jul/2021",
+      "resumo_conhecimentos_aprendidos": "Git/GitHub, lógica e programação, Javascript, Node.js, Métodos HTTP, API Rest, padrão MVC e MongoDB"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Learn Python The Hard Way",
+      "instituicao": "Zed A. Shaw",
+      "resumo_conhecimentos_interesses": "Pequena introdução a Python no site oficial do livro com apenas poucos capítulos disponíveis"
+    },
+    {
+      "interesse_evento_curso": "NLW#5 - Trilha Node.js",
+      "instituicao": "Rocketseat",
+      "resumo_conhecimentos_interesses": "Aprendizado e construção de sistema de atendimento por chat com Daniele Leão"
+    },
+    {
+      "interesse_evento_curso": "NLW/Together - Trilha React",
+      "instituicao": "Rocketseat",
+      "resumo_conhecimentos_interesses": "Aprendizado e construção de interface de sistema de perguntas e respostas com Diego Fernandes"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 10
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 10
+    },
+    {
+      "habilidade_ferramenta": "Responsividade",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "Adobe Photoshop",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "Adobe Illustrator",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "Inglês",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JavaScript/TypeScript",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "Arquitetura MVC",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "Arquitetura SPA",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "Blender",
+      "pontuacao": 7
+    }
+    {
+      "habilidade_ferramenta": "React",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "Sass",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "Node.js",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "PHP",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "Git/GitHub",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "Pacote Office",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "Python",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "MySQL",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "MongoDB",
+      "pontuacao": 5
+    }
+  ]
+}
