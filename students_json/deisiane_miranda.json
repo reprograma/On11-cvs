@@ -1,0 +1,70 @@
+{
+  "nome_completo": "Deisiane Miranda de Souza",
+  "o_que_eu_quero": "Atuar como desenvolvedora backend",
+  "cidade_estado:": "Jaboatão dos guararapes/PE",
+  "link_linkedin": "https://www.linkedin.com/in/deisiane-miranda-504a616a/",
+  "link_github": "https://github.com/Deisiane16",
+  "email": "deisimiranda48@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou casada, não tenho filhos",
+    "Atei com axiliar de escritorio por 2 anos e o meu ultimo emprego foi como analista junior, onde eu atuava monitorando link's, fibra optica, queda de cables modem, saturação no serviço de internet entre otras funções.",
+    "amo ir a praia, ao cinema e estar com a minha familia",
+    "O meu objtivo é conhecer a fundo a linguagem java, pyton, java script e me especializar em segurança de dados"
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Analista junior",
+      "empresa": "Empresa NeoBPO",
+      "periodo": "out/2018 a julho/2020",
+      "atividades_desenvolvidas": "Monitoramento das redes GPON, monitoramento saturação de links, queda de cables modem, rompimento de fibra optica, verificação de niveis de sinal dos clientes, relatorios a cada 30 minutos das cidades afetadas com algum sinitro e apoio aos técnicos de campo",
+      "link": null
+    },
+    {
+      "cargo_funcao": "auxiliar de escritorio",
+      "empresa": "tropicos engenharia",
+      "periodo": "abril/2013 a out/2015",
+      "atividades_desenvolvidas": "recebimento de material, solicitação de material para as obras, faturamento",
+      "link": " "
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "gestão em sistemas de informação",
+      "instituicao": "Unip",
+      "periodo": "Jan/2011 a Dez/2012",
+      "resumo_conhecimentos_aprendidos": "Mercadologia, mercado E-business"
+    },
+    {
+      "curso": "redes de computadores",
+      "instituicao": "Etemac",
+      "periodo": "setembro/2013 a maio/2015",
+      "resumo_conhecimentos_aprendidos": "configuração de rotadores, aprendizado da camada OSI, protocolos de roteamento"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "ABAP pra iniciantes",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "curso completo"
+    },
+    {
+      "interesse_evento_curso": "javaScript curso completo",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript com 6 projetos reais"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "JavaScript",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "ABAP",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+    
