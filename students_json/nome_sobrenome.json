@@ -1,145 +1,142 @@
 {
-  "nome_completo": "Seu Nome Completo",
+  "nome_completo": "Ana Carolina Oliveira Lima",
   "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
-  "cidade_estado:": "São Paulo/SP",
-  "link_linkedin": "https://www.linkedin.com/in/seulinkedin/",
-  "link_github": "https://github.com/seugithub",
-  "email": "seuemail@gmail.com",
+  "cidade_estado:": "Eusébio/CE",
+  "link_linkedin": "https://www.linkedin.com/in/anacarolinna/",
+  "link_github": "https://github.com/carollynie/",
+  "email": "carolina.oliveiralima9@gmail.com",
   "um_pouco_sobre_mim": [
-    "Aqui é um parágrafo descrevendo um pouco sobre você",
-    "Aqui é outro parágrafo falando sobre sua trajetória",
-    "Nesse aqui você pode dizer o que você curte fazer",
-    "Fique a vontade, mas busque ser objetiva"
+    "Quando penso no que meu melhor amigo diria sobre mim, a primeira coisa que ele pensaria é sobre minha resiliência. Sou uma pessoa que não desiste fácil, e não desistir dos meus sonhos se tornou o combustível para eu, todos os dias, lutar pelo que acredito",
+    "Quando eu estava no ensino médio, sempre dizia que queria ser uma engenheira para desenvolver soluções. Ficava encantada quando diziam para mim, por isso, decidi seguir o caminho da Engenharia. Escolhi Engenharia Elétrica e estou no sétimo semestre do curso, mas busco hoje a transição de carreira. Não para deixar de desenvolver soluções, mas sim buscar esse objetivo na área de Tecnologia.",
+    "O que mais curto fazer no meu tempo livre é ler histórias em quadrinhos japonesas e coreanas, os famosos mangás e manhwas. Gosto bastante por conseguir, mesmo que de forma lúdica, entender a cultura desses países. Também gosto de cozinhar doces, inventar novas receitas de doces, é algo que estimula minha criatividade e que me proporciona sorrisos pela minha comida"
   ],
   "no_que_ja_trabalhei": [
     {
-      "cargo_funcao": "Design Gráfica",
-      "empresa": "Empresa XPTO",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
+      "cargo_funcao": "Voluntariado - Assessora comercial",
+      "empresa": "Tecsys Jr.",
+      "periodo": "Jan/2019 a Dez/2019",
+      "atividades_desenvolvidas": "Prospecção ativa de clientes, acompanhamento de jornada comercial dos clientes na empresa, realização de visitas técnicas de Engenharia Elétrica. Realização do projeto de um laudo de pára-raio para um edifício em Fortaleza",
+      "link": "http://tecsysjr.com.br"
+    },
+    {
+      "cargo_funcao": "Voluntariado - Diretora de Marketing",
+      "empresa": "Tecsys Jr.",
+      "periodo": "Jan/2020 a Dez/2020",
+      "atividades_desenvolvidas": "Estratégia de vendas, gerenciamento de times de comercial e marketing, além da criação de conteúdos para Instagram e Site da Empresa.",
+      "link": "http://tecsysjr.com.br"
+    },
+    {
+      "cargo_funcao": "Voluntariado - Assessora de Projetos",
+      "empresa": "Enactus UFC",
+      "periodo": "Dez/2020 a Abr/2021",
+      "atividades_desenvolvidas": "Acompanhamento de prazos e metas de projetos, desenvolvimento de sistema de precificação para o produto a ser comercializado, estratégia de vendas para esse produto e desenvolvimento de conteúdo para Instagram do Projeto Maní",
       "link": null
     },
     {
-      "cargo_funcao": "Projeto Voluntário",
-      "empresa": "Reprograma - Cliente Fulano",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": "http://clientefulano.com.br"
+      "cargo_funcao": "Estagiária de Materiais, Equipamentos e Logística",
+      "empresa": "Enel Brasil",
+      "periodo": "Abr/2020 até o momento",
+      "atividades_desenvolvidas": "Uso do SAP MM para atendimento de necessidade de materiais para as distribuidoras de energia do Rio de Janeiro, Goiás e Ceará. Elaboração de relatórios de contratos e compras dessas 3 distribuidoras. Acompanhamento de resultados e auxílio para limpeza e tratamento dos dados exportados do SAP MM.",
+      "link": "https://www.enel.com.br/pt.html"
     }
   ],
   "o_que_ja_estudei": [
     {
-      "curso": "Design Gráfico",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2016 a Dez/2018",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Gestão Comercial",
+      "instituicao": "Easy Capacitação",
+      "periodo": "Abr/2020",
+      "resumo_conhecimentos_aprendidos": "Como trabalhar para times comerciais serem mais produtivos e alcancerem cada vez mais resultados surpreendentes."
     },
     {
-      "curso": "Curso de Web Design",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2015 a Dez/2015",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Excel Completo",
+      "instituicao": "Udemy",
+      "periodo": "Mar/2021 a Abr/2021",
+      "resumo_conhecimentos_aprendidos": "Uso do básico ao avançado de excel, desde formatação de planilhas à uso de tabelas e gráficos dinâmicos, construção de dashboards e fórmulas avançadas."
+    },
+    {
+      "curso": "Desenvolvimento Back-End",
+      "instituicao": "Reprograma",
+      "periodo": "Mar/2021 a Jul/2021",
+      "resumo_conhecimentos_aprendidos": "Uso do JavaScript em aplicações Back-End, por meio do NodeJs. Aprendi sobre lógica de programação, uso de funções, construção de API's, integração com o Banco de Dados MongoDB"
     }
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
-      "interesse_evento_curso": "Curso online de Javascript",
+      "interesse_evento_curso": "Curso de VBA Excel",
       "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+      "resumo_conhecimentos_interesses": "Uso da linguagem de programaçã VBA para automatizar tarefas rotineiras no Excel."
     },
     {
-      "interesse_evento_curso": "Curso ES6",
+      "interesse_evento_curso": "Curso de Power BI para Data Science",
+      "instituicao": "Data Science Academy",
+      "resumo_conhecimentos_interesses": "Exportação de base de dados para o Power BI, dashboards para visualização de dados e tratamento de dados."
+    },
+    {
+      "interesse_evento_curso": "Curso de Git e Github",
       "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+      "resumo_conhecimentos_interesses": "Uso do Git e Github para controle de versão de códigos."
+    },
+    {
+      "interesse_evento_curso": "Encontro de Líderes 2020 - Parque Maeda - Itú/SP",
+      "instituicao": "Brasil Júnior",
+      "resumo_conhecimentos_interesses": "Evento com lideranças juniores do Brasil inteiro em uma imersão de dois dias, para discutir sobre o Planejamento Estratégico de 2020"
     }
   ],
   "no_que_me_destaco": [
     {
-      "habilidade_ferramenta": "HTML",
+      "habilidade_ferramenta": "Java Script",
+      "pontuacao": 10
+    },
+    {
+      "habilidade_ferramenta": "Node JS",
+      "pontuacao": 10
+    },
+    {
+      "habilidade_ferramenta": "Git",
       "pontuacao": 9
     },
     {
-      "habilidade_ferramenta": "CSS",
+      "habilidade_ferramenta": "Github",
+      "pontuacao": 10
+    },
+    {
+      "habilidade_ferramenta": "Mongo DB",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "Mongoose",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "Express",
       "pontuacao": 9
     },
     {
-      "habilidade_ferramenta": "SASS",
+      "habilidade_ferramenta": "VBA",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "Excel",
+      "pontuacao": 10
+    },
+    {
+      "habilidade_ferramenta": "Power BI",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "Postgree SQL",
       "pontuacao": 6
     },
     {
-      "habilidade_ferramenta": "JAVASCRIPT",
+      "habilidade_ferramenta": "AutoCAD",
       "pontuacao": 8
     },
     {
-      "habilidade_ferramenta": "JQUERY",
-      "pontuacao": 6
+      "habilidade_ferramenta": "SAP MM",
+      "pontuacao": 7
     },
     {
-      "habilidade_ferramenta": "NODE",
-      "pontuacao": 1
-    },
-    {
-      "habilidade_ferramenta": "GIT/GITHUB",
-      "pontuacao": 8
-    },
-    {
-      "habilidade_ferramenta": "BOOTSTRAP",
-      "pontuacao": 9
-    },
-    {
-      "habilidade_ferramenta": "REACT",
-      "pontuacao": 8
-    },
-    {
-      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
-      "pontuacao": 5
-    },
-    {
-      "habilidade_ferramenta": "RESPONSIVIDADE",
-      "pontuacao": 9
-    },
-    {
-      "habilidade_ferramenta": "UX DESIGN",
-      "pontuacao": 6
-    },
-    {
-      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
-      "pontuacao": 6
-    },
-    {
-      "habilidade_ferramenta": "WORDPRESS",
-      "pontuacao": 9
-    },
-    {
-      "habilidade_ferramenta": "PHP",
-      "pontuacao": 3
-    },
-    {
-      "habilidade_ferramenta": "MySQL",
-      "pontuacao": 3
-    },
-    {
-      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
-      "pontuacao": 8
-    },
-    {
-      "habilidade_ferramenta": "FTP",
-      "pontuacao": 5
-    },
-    {
-      "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
-      "pontuacao": 8
-    },
-    {
-      "habilidade_ferramenta": "PHOTOSHOP",
-      "pontuacao": 9
-    },
-    {
-      "habilidade_ferramenta": "ILUSTRATOR",
-      "pontuacao": 9
-    },
-    {
-      "habilidade_ferramenta": "INDESIGN",
+      "habilidade_ferramenta": "Pacote Office",
       "pontuacao": 9
     }
   ]
