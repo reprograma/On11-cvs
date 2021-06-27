@@ -1,0 +1,146 @@
+{
+  "nome_completo": "Amanda Bittencourt Lopes",
+  "o_que_eu_quero": "Desejo seguir na carreira de QA Analyst, melhorar minhas skills em automatização, e ser feliz :)",
+  "cidade_estado:": "Curitiba/PR",
+  "link_linkedin": "https://www.linkedin.com/in/amanda-bittencourt-/",
+  "link_github": "https://github.com/amandatrololo",
+  "email": "amandablopess@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou Amanda, uma pessoa curiosa, brincalhona, apaixonada por games de estratégia e simuladores, amante de comidas boas e boas histórias. Adoro ajudar pessoas e fazer diferença na vida de cada um que conheço",
+    "Iniciei minha paixão por tecnologia quando percebi que poderia alterar qualquer coisa nas configurações do computador, desde muito nova pesquisei
+    bastante sobre novas tecnologias e a vida naturalmente foi me encaminhando cada vez mais para a minha maior paixão",
+    "Gosto de jogar, estar com a família e memes"
+    ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Estagiária - Supply Chain",
+      "empresa": "BRF - Brasil Foods",
+      "periodo": "Mar/2020 a Mar/2021",
+      "atividades_desenvolvidas": "Controle de Incidentes utilizando banco de dados e
+      formação de gráficos utilizando Power Bi e Excel ;
+      Responsável por comunicação de outros usuários da SAP IBP
+      resolvendo problemas de acesso à ferramenta ;
+      Criação de novas soluções e manutenção do sistema de
+      demanda, utilizando a ferramenta SAP IBP, Hana e CPI ;",
+      "link":"https://www.brf-global.com/"
+    },
+    {
+      "cargo_funcao": "QA Analyst Jr",
+      "empresa": "Paraná Banco",
+      "periodo": "Jun/2021 até o momento",
+      "atividades_desenvolvidas": "Automatização de Testes em C# e Javascript;
+      Manipulação de Endpoints no Swagger e testes no Postman;
+      Efetuação de testes segundo demandas da Sprint;
+      Criação de Casos de Teste;
+      Testes regressivos e constante otimização de testes",
+      "link": "https://www.paranabanco.com.br/"
+    },
+    {
+      "cargo_funcao": "Consultora Técnica - Pequenas e médias empresas",
+      "empresa": "DirectCall",
+      "periodo": "Jun/2017 a Nov/2018",
+      "atividades_desenvolvidas": "Manutenção de linhas digitais(Telefonia VOIP, DID e Sip
+      Trunk ;
+      Carteira de clientes;
+      Planejamento de estrutura telefônica para demanda da
+      empresa",
+      "link": "http://directcall.com.br"
+    },
+    { "cargo_funcao": "Fiscal - Servidora Publica",
+      "empresa": "Prefeitura de Almirante Tamandaré ",
+      "periodo": "Dez/2016 a Mai/2017",
+      "atividades_desenvolvidas": "Fiscalização tributária de Pessoa Física e Jurídica",
+      "link": "https://tamandare.pr.gov.br"
+
+    },
+    {
+      "cargo_funcao": "Entrevistadora - Servidora Pública",
+      "empresa": "IBGE ",
+      "periodo": "Jun/2013 a Ago/2014",
+      "atividades_desenvolvidas": "Fiscalização tributária de Pessoa Física e Jurídica",
+      "link": "https://tamandare.pr.gov.br"
+    },
+    {
+      "cargo_funcao": "Entrevistadora - Servidora Pública",
+      "empresa": "IBGE ",
+      "periodo": "Jun/2013 a Ago/2014",
+      "atividades_desenvolvidas": "Entrevista do Censo e pesquisas de saúde do governo",
+      "link": "http://www.ibge.gov.br/"
+    },
+    {
+      "cargo_funcao": "Vendedora de Livros",
+      "empresa": "Livrarias Curitiba ",
+      "periodo": "Dez/2009 a Abr/2010 / Out/2012 a Mai/2013",
+      "atividades_desenvolvidas": "Vendas de livros técnicos;",
+      "link": "https://www.livrariascuritiba.com.br/"
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Análise e Desenvolvimento de Sistemas",
+      "instituicao": "Unicesumar",
+      "periodo": "Dez/2017 a Out/2021",
+      "resumo_conhecimentos_aprendidos": "Arquitetura de Software, Lógica da Programação, Matemática, Java, Banco de Dados, Engenharia de Software"
+    },
+    {
+      "curso": "Curso de HTML",
+      "instituicao": "Programaria",
+      "periodo": "40 HORAS",
+      "resumo_conhecimentos_aprendidos": "Entendimento sobre a sintaxe básica do html"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Certified Tester",
+      "instituicao": "ISTQB - Foundation Level Syllabus",
+      "resumo_conhecimentos_interesses": "Formação certificada em testes de software"
+    },
+    {
+      "interesse_evento_curso": "Curso de Java",
+      "instituicao": "Alura",
+      "resumo_conhecimentos_interesses": "Entendimento sobre as aplicações em Java e sua manipulação"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "INGLÊS",
+      "pontuacao": 10
+    },
+    {
+      "habilidade_ferramenta": "NODEJS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "C",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "C#",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "Postman",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "MySQL",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "JAVA",
+      "pontuacao": 7
+    }
+  ]
+}
