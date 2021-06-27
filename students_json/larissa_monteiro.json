@@ -1,0 +1,156 @@
+{
+  "nome_completo": "Larissa Cristina da Silva Monteiro",
+  "o_que_eu_quero": "Profissional em transição de carreira em busca de contratação como desenvolvedora back-end junior",
+  "cidade_estado:": "UBERABA/MG",
+  "link_linkedin": "https://www.linkedin.com/in/larissa-silva-monteiro/",
+  "link_github": "https://github.com/LcsMonteiro",
+  "email": "lcsmonteiiro@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Olá! Sou uma pessoa a procura de tornar a realidade das minorias melhor e acredito que a educação é único caminho para desatar os nós das amarras da mente. Acredito na importância do trabalho do coletivo para tornar as mudanças que desejamos reais. Decidi fazer a transição de carreira pois vejo a tecnologia como uma fonte de poder onde infelizmente pessoas pretas não tem muito acesso, e quero mudar isso através da inclusão dessas pessoas por meio da educação tecnológica desde a ligar um celular e computado, à linguagens de programação,  tornando o  afrofuturo algo realizável e inclusivo.",
+    "Minha tragetória profissional se inicia aos 17 anos quando trabalhei como recepcionista, mas após 6 meses pedi demissão, pois queria estudar e iniciei um curso técnico de meio ambiente.Aos 18 iniciei a faculdade em licenciatura em geografia, que terminei aos 24 (2020) com certo descontentamento,pois em minhas experiencas do estágio, as tentativas de incluir tecnologia nas aulas foram falhas devidos a qualidade dos aparelhos, e/ou a direção das escolas sendo contra. Finalizei a faculdade decidida em fazer mestrado sobre o uso da tecnologia na sala de aula mas percebi que com a linguagem acadêmica eu não conseguiria alcançar as pessoas que eu queria que são as pessoas pretas. Em outubro de 2020 decidi fazer transição de carreira, sendo meu primeiro contato sendo o curso da Programaria onde fui comtemplada com uma bolsa, após, conheci a Educafro, onde ganhei uma bolsa de estudos por 3 meses na alura, e atualmente estou terminando o bootcamp de back-end na reprograma, e iniciando o bootcamp da Santander FUllsatack.",
+    "Gosto de cozinhar, por ser vegana precisei começar a cozinhar mais e por fim gostei; gosto de séries e livros de ficção científica, sou apaixonada por animais, tanto que tenho 13 gatos, e sou ativa no trabalho voluntário a favor dos animais."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Trabalho voluntário",
+      "empresa": "",
+      "periodo": "Jan/2017 a atualmente",
+      "atividades_desenvolvidas": "Arrecadação de dinheiro para compra de ração, tratamento veterinários e castrações.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Residência Pedagógica",
+      "empresa": "Universidade Federal do Triângulo Mineiro",
+      "periodo": "Agosto/2017 a Janeiro/2020",
+      "atividades_desenvolvidas": "Na Residência Pedagógica, através do trabalho coletivo, foi possível o desenvolvimento de habilidades de trabalho em equipe, melhoria na comunicação, liderança, criatividade, capacidade de adaptação, o que tornou a experiência do projeto desenvolvido nas escolas mais enriquecedor e satisfatório. A Residência Pedagógica foi um projeto pratico onde tive a oportunidade de entrar em contato com a realidade das escolas brasileiras, além de colocar em pratica os conteúdos que foram aprendidos na universidade.",
+      "link": null
+    },
+    {"cargo_funcao": "Programa de Iniciação à Docência (PIBID)",
+      "empresa": "Universidade Federal do Triângulo Mineiro",
+      "periodo": "Novembro/2014 a março/2018",
+      "atividades_desenvolvidas": "Participação como Bolsista do Programa de iniciação a docência, o qual objetivou o primeiro contato com a sala de aula através do planejamento e execução de projetos com os alunos em turnos extraclasse. O PIBID foi um projeto interdisciplinar, fato que favoreceu o desenvolvimento de habilidades como flexibilidade, capacidade de adaptação, criatividade, resolução de problemas, ampliação de conhecimento e diálogo do ensino de geografia com outras disciplinas."
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Santander Bootcamp Fullstack Developer",
+      "instituicao": "Digital Innovation One",
+      "periodo": "Junho/2021 a Setembro/2021",
+      "resumo_conhecimentos_aprendidos": "Java, Angular, Banco de dados"
+    },
+    {
+      "curso": "Programação de IAs Conversacionais",
+      "instituicao": "Capacita - Smarkio",
+      "periodo": "Junho/2021 a Setembro/2021",
+      "resumo_conhecimentos_aprendidos": "Programaçao de chatbots, API"
+    },
+    {
+      "curso": "Bootcamp back-end",
+      "instituicao": "{reprograma}",
+      "periodo": "Março/2021 a Julho/2021",
+      "resumo_conhecimentos_aprendidos": "Git, github, lógica de programação, Javascript, NodeJS, MongoDB"
+    },
+    {
+      "curso": "Curso Online Eu ProgrAmo",
+      "instituicao": "Programaria",
+      "periodo": "Novembro/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Sintaxe do JavaScript,Inputs e Formulários,Lógica de Interação,Condições,Funções no JavaScript,Sintaxe do CSS,Ajustando e estilizando fontes e textos,Ajustando planos de fundo,Classes e Ids,Margens e Padding, Menus, âncoras e hierarquia de seletores,Conceito básicos de HTML"
+    },
+    {"curso": "Licencitura em Geografia",
+      "instituicao": "Universidade Federal do Triângulo Mineiro",
+      "periodo": "Agosto/2014 a Janeiro/2020",
+      "resumo_conhecimentos_aprendidos": "Teoria e método em geografia, práticas educacionais, geografia física, geografia urbana, geografia agrária, mídia e educação"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Lógica de Programação I",
+      "instituicao": "Alura",
+      "resumo_conhecimentos_interesses": "Os primeiros programas com Javascript e HTML"
+    },
+    {
+      "interesse_evento_curso": "Lógica de Programação II",
+      "instituicao": "Alura",
+      "resumo_conhecimentos_interesses": "Praticando a lógica de programação com desenhos, animações e um jogo"
+    },
+    {
+      "interesse_evento_curso": "Lógica de programação com JavaScript",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses":"Lógica de programação,Conceitos de JavaScript,Desenvolvimento de raciocínio"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "MONGODB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "SQL",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "FLUTTER",
+      "pontuacao": 4
+    },
+    {
+      "habilidade_ferramenta": "FIGMA",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "TESTES UNITÁRIOS",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "UI DESIGN",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "COMUNICAÇAO",
+      "pontuacao": 10
+    },
+    {
+      "habilidade_ferramenta": "LÓGICA DE PROGRAMAÇÃO",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "LINUX",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "PROATIVIDADE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "RÁPIDO APRENDIZADO",
+      "pontuacao": 8
+    }
+  ]
+}
