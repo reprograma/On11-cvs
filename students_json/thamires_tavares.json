@@ -1,0 +1,141 @@
+{
+  "nome_completo": "Thamires da Silva Tavares",
+  "o_que_eu_quero": "Iniciar minha carreira na área de desenvolvimento back-end, agregando à empresa meus conhecimentos adquiridos até aqui como estudante de Engenharia Eletrônica.",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/thamires-tavares-989b771a7/",
+  "link_github": "https://github.com/thamiress-t",
+  "email": "thamires.tavares@ufpe.br",
+  "um_pouco_sobre_mim": [
+    "Me chamo Thamires, tenho 22 anos e estou no quarto ano de bacharelado em Engenharia Eletrônica na UFPE. Sou entusiasta da área de telecomunicações e desenvolvimento back-end.",
+    "Escolhi engenharia eletrônica porque criei grande paixão pela área de comunicações, criptografia, segurança da informação e etc. Este foi um dos motivos pelo qual também escolhi cursar o bootcamp para back-end da reprograma, já que esta área do desenvolvimento pode me permitir explorar também a parte de segurança.",
+    "Durante a graduação sempre me envolvi em diversas atividades que me permitiram desenvolver habilidades como proatividade, autodisciplina e bom trabalho em equipe. ",
+    "Gosto muito de música, então nas horas vagas procuro cantar, tocar violão, ler ou assistir séries. "
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Estagiária em desenvolvimento e pesquisa",
+      "empresa": "Fade/Neoenergia",
+      "periodo": "maio/2017 - o momento",
+      "atividades_desenvolvidas": "Software de controle de arranjo de antenas inteligentes, programação de sistemas embarcados em C/C++ e Python, Sockets Programming.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Vice-Presidente do projeto",
+      "empresa": "Projeto de extensão Asa Branca Aerospace",
+      "periodo": "agosto/2020 a maio/2021",
+      "atividades_desenvolvidas": "Gerenciamento e planejamento de atividades das subequipes e time como um todo.",
+      "link": "https://www.instagram.com/asabranca.as/"
+    },
+    {
+      "cargo_funcao": "Diretora do Projeto de Cubesats",
+      "empresa": "Projeto de extensão Asa Branca Aerospace",
+      "periodo": "março/2019 a maio/2021",
+      "atividades_desenvolvidas": "Coordenação das atividades de integração e verificação de requisitos das subequipes do projeto que estiverem envolvidas com o projeto do Cubesat (nanossatélite).",
+      "link": "https://www.instagram.com/asabranca.as/"
+    },
+    {
+      "cargo_funcao": "Chefe da equipe de Suprimento Energético",
+      "empresa": "Projeto de extensão Asa Branca Aerospace",
+      "periodo": "maio/2018 a abril/2021",
+      "atividades_desenvolvidas": "Projeto de circuitos para alimentação de todos os subsistemas de Cubesats e foguetes, simulação em Matlab/Simulink e afins.",
+      "link": "https://www.instagram.com/asabranca.as/"
+    }
+  ],
+  "o_que_ja_estudei": [
+
+    { "curso": "Todas em Tech - Back end",
+      "instituicao": "Reprograma",
+      "periodo": "Mar/2021 - Jul/2021",
+      "resumo_conhecimentos_aprendidos": "Git/Github, Javascript e Node.js, desenvolvimento de API's, Banco de dados não relacionais com MongoDB."
+      
+    },
+    {
+      "curso": "Iniciação científica: Um estudo sobre mapas do tipo Chebyshev sobre Corpos Finitos.",
+      "instituicao": "Universidade Federal de Pernambuco",
+      "periodo": "Ago/2020 - Jul/2021",
+      "resumo_conhecimentos_aprendidos": "Pesquisas relacionadas à matemática discreta para aplicações na área de criptografia, comunicações e matemática aplicada."
+    },
+    {
+      "curso": "Engenharia Eletrônica",
+      "instituicao": "Universidade Federal de Pernambuco",
+      "periodo": "Jan/2017 - o momento",
+      "resumo_conhecimentos_aprendidos": "Eletrônica analógica, Eletrônica Digital, Sistemas de comunicação, Códigos corretores de erros, Criptografia, Redes de computadores e afins."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Algorithmic Toolbox",
+      "instituicao": "Coursera",
+      "resumo_conhecimentos_interesses": "Técnicas essenciais de algoritmos, eficiência e otimização de algoritmos, desafios feitos em C++."
+    },
+    {
+      "interesse_evento_curso": "Inglês",
+      "instituicao": "Fisk",
+      "resumo_conhecimentos_interesses": "Curso do nível básico ao avançado de inglês"
+    },
+    {
+      "interesse_evento_curso": "Monitoria de Sistemas Discretos",
+      "instituicao": "Universidade Federal de Pernambuco",
+      "resumo_conhecimentos_interesses": "Auxiliar do professor em disciplina sobre matemática discreta e álgebra abstrata."
+    }
+
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "INGLÊS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "C++",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "PYTHON",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "NODE.JS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "MONGODB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "POSTMAN",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "API-RESTFUL",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "MATLAB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 10
+    },
+    {
+      "habilidade_ferramenta": "COMUNICAÇÃO",
+      "pontuacao": 10
+    }
+  ]
+}
