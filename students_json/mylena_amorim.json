@@ -1,0 +1,185 @@
+{
+  "nome_completo": "Mylena Amorim Tavares",
+  "o_que_eu_quero": "E quero ter contato e construir experiencias profissionais com tecnologias como NodeJS e Python, também desejo que o meu trabalho seja reconhecido dentro do mercado de TI decorrente do impacto positivo causado as pessoas e empresas através do meu trabalho. E também, tenho a meta de ser contratado como Dev Júnior até dezembro de 2021",
+  "cidade_estado:": "Pombos/PE",
+  "link_linkedin": "https://www.linkedin.com/in/mylena-amorim-a96884178/",
+  "link_github": "https://github.com/mylenaamorim18",
+  "email": "myleenaamorim13@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou uma garota apaixonada pela caixinha de surpresas que é a tecnologia, muito curiosa, que se adapta com facilidade as mudanças, que gosta de inovação,  trabalhar em equipe, que está sempre aberta a críticas construtivas, que está sempre em busca de novos conhecimentos e que sonha presenciar um mundo menos desigual.",
+    "Sempre foi uma pessoa de focar nos estudo mesmo não sendo sempre tão fácil. Durante ensino médio fiz um curso técnico de agroindústria integrado ao médio, durante o 3° ano do ensino médio e ano de pré-vestibular cheguei a conclusão que queria trabalhar com tecnologia e cursar BCC mesmo não sabendo o que era programação, no ano seguinte passei na bolsa do Prouni na UNINSSAU aonde eu estou no 6° perído.",
+    "Gosto de comer e cozinhar, assistir, conhecer lugares e coisas novas, adoro dormir e gostava de sair com os amigos antes da pandemia."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Estagiaria de Programação",
+      "empresa": "LTI Web",
+      "periodo": "Mar/21 até atualmente",
+      "atividades_desenvolvidas": "Desenvolvimento e manutenção de funcionalidades nos softwares comercializados pela empresa utilizando tecnologias como PHP, JavaScript, MySQL, Codeigniter, Jquery, ORM Doctrine, Docker, BitBucket, Jira, etc.",
+      "link": "https://www.lti.net.br/"
+    },
+    {
+      "cargo_funcao": "Organização das Oficinas na Semana de Tecnologia da UNINASSAU",
+      "empresa": "Evento da UNINASSAU",
+      "periodo": "Out/20 até Out/20",
+      "atividades_desenvolvidas": "Organização, agendamentos das oficinas práticas e envio de e-mails.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Ciência da Computação",
+      "instituicao": "UNINASSAU - Graças",
+      "periodo": "Mar/2019 até atualmente",
+      "resumo_conhecimentos_aprendidos": "Projeção e desenvolvimento de softwares para uso especifico e genérico. Algoritmos, Combinatória e Grafos; Arquitetura de Computadores e Sistemas Operacionais; Compiladores e Linguagens de Programação; Computação Gráfica; Informática Educativa; Métodos Numéricos, Modelagem e Otimização de Sistemas; Redes de Computadores e Sistemas Distribuídos (em Intranets e na Internet); Sistemas de Informação, Banco de Dados, Mineração de Dados; Sistemas Inteligentes (Inteligência Computacional e Artificial)."
+    },
+    {
+      "curso": "Técnico em Agroindústria",
+      "instituicao": "IFPE - Campus Vitória de S.A",
+      "periodo": "Mar/2016 a Dez/2018",
+      "resumo_conhecimentos_aprendidos": "Implementação e gerencia de sistemas de controle de qualidade. Identificação e aplicação de técnicas mercadológicas para distribuição e comercialização de produtos."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "curso": "Bootcamp online de Analista de Banco Dados",
+      "instituicao": "IGTI",
+      "resumo_conhecimentos_interesses": "Entendimento sobre modelagem de dados, bancos de dados relacionais e NoSQL como MongoDB, SQL, MySQL, MariaDB."
+    },
+    {
+      "curso": "Curso online de Architecting with Google Compute Engine",
+      "instituicao": "Google Cloud Training",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a arquitetura da computação em nuvem na prática na Google Cloud."
+    },
+    {
+      "curso": "Curso online de JavaScript",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe do javascript no desenvolvimento back-end."
+    },
+    {
+      "curso": "Curso online de MySQL - Desenvolvedor",
+      "instituicao": "TreinaWeb",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe do MySQL."
+    },
+    {
+      "curso": "Curso online de Programação para internet com HTML5 e CSS3",
+      "instituicao": "Digital Innovation One",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe do HTML5 e CSS3."
+    },
+    {
+      "curso": "Curso online de Python",
+      "instituicao": "TreinaWeb",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do Python."
+    },
+    {
+      "interesse": "Curso online de AWS",
+      "instituicao": "Digital Innovation One",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a computação em nuvem na prática, pois já estudei a teoria e estou em busca de como se aplicar."
+    },
+    {
+      "interesse": "Curso online de NodeJS",
+      "instituicao": "Digital Innovation One",
+      "resumo_conhecimentos_interesses": "Aprimoramento do meu conhecimento em NodeJS."
+    },
+    {
+      "interesse": "Bootcamp online de DEVOPS",
+      "instituicao": "IGTI",
+      "resumo_conhecimentos_interesses": "Entendimento sobre as práticas e ferramentas de a integração e automação de processos de desenvolvimento e operações, para produção ágil e segura de aplicações e serviços."
+    },
+    {
+      "interesse": "Curso online de Flutter",
+      "instituicao": "Digital Innovation One",
+      "resumo_conhecimentos_interesses": "Entendimento sobre Flutter."
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 10
+    },
+    {
+      "habilidade_ferramenta": "CODEIGNITER",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "EXPRESS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "ORM Doctrine",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "MySQL",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "MongoDB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "NODEJS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "PHP",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "PROGRAMAÇÃO OO",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 10
+    },
+    {
+      "habilidade_ferramenta": "COMUNICAÇÃO",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "TRABALHO EM EQUIPE",
+      "pontuacao": 10
+    },
+    {
+      "habilidade_ferramenta": "COMPROMETIMENTO",
+      "pontuacao": 10
+    },
+    {
+      "habilidade_ferramenta": "FLEXIBILIDADE",
+      "pontuacao": 10
+    },
+    {
+      "habilidade_ferramenta": "LIDERANÇA",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "FIGMA",
+      "pontuacao": 7
+    }
+  ]
+}
