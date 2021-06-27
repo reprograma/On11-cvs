@@ -181,6 +181,10 @@
       "pontuacao": 8
     }, 
     {
+      "habilidade_ferramenta": "ESPANHOL", 
+      "pontuacao": 7
+    }, 
+    {
       "habilidade_ferramenta": "EXPRESS", 
       "pontuacao": 7
     },
@@ -189,7 +193,7 @@
       "pontuacao": 8
     },
     {
-      "habilidade_ferramenta": "MVC", 
+      "habilidade_ferramenta": "Arquitetura MVC", 
       "pontuacao": 9
     },
     {
