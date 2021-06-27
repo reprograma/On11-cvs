@@ -1,0 +1,150 @@
+{
+  "nome_completo": "Ava Pimmel Correa",
+  "o_que_eu_quero": "Eu quero trabalhar com o desenvolvimento de programas e soluçoes e desenvolver minha habilidade como programadora!",
+  "cidade_estado:": "Goiânia/GO",
+  "link_linkedin": "https://www.linkedin.com/in/ava-pimmel-correa-ela-she-b924a81b7/",
+  "link_github": "https://github.com/avapc",
+  "email": "avapcorrea@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Oi meu nome é Ava! Sou uma mulher trans, tenho 21 anos e estudo ciencias da computação para me tornar uma programadora incrivel.
+    Moro em Goiânia, aqui em Goiás e adoro mecher com tecnologia e computadores.",
+    "Eu sempre adorei tecnologia, desde pequena jogando no meu Gameboy ou navegando no computador e ápos perceber que Engenharia Civil não era minha paixao decidi correr átraz de programar!
+    Entrei em Ciencias da Computação e tenho estudado muito para aprender a programar a desenvolver, tenho fluencia em inglês que me ajuda á pesquisar e achar a solução para os vários probleminhas que se encontra programando.
+    Me desenvolvi bem mas ainda não tinha achado um espaço tão bom para aprender e conhecer pessoas engajadas e dispostas a compartilhar até que encontrei a {Reprograma} e deslanchei no meu aprendizado Tech.",
+    "Gosto de aprender mais sobre tecnologias novas e sou fissurada nos modelos novos de hardware como celulares e laptops, gosto de jogos e tenho me aventurado em aprender mais sobre crypto e penso em desenvolver algum dApp de DeFi no futuro!",
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Auxiliar administrativo e atendente",
+      "empresa": "Sapataria do Futuro",
+      "periodo": "Fev/2018 a Ago/2018",
+      "atividades_desenvolvidas": "Atender clientes, resolver problemas, vender produtos, auxiliar no contato com distribuidores, desenvolver marketing e gerenciar estoque.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Estágiaria de Arquitetura de Software",
+      "empresa": "Secretaria de Saude do Governo De Goiás",
+      "periodo": "Jun/2021 ~ Atual",
+      "atividades_desenvolvidas": "Desenvolver frameworks para auxiliar o desenvolvimento de programas, DevOps, Deploy dos programas, Desenvolvimento de APIs em Java.",
+      "link": "https://www.saude.go.gov.br"
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Inglês",
+      "instituicao": "CNA",
+      "periodo": "Jan/2011 ~ Dez/2015",
+      "resumo_conhecimentos_aprendidos": "Fluência na língua Inglesa"
+    },
+    {
+      "curso": "Ciencias Da Computação",
+      "instituicao": "UNIP - Universidade Paulista",
+      "periodo": "Jan/2020 ~ cursando",
+      "resumo_conhecimentos_aprendidos": "Até agora conhecimentos em: HTML, CSS, JavaScript, Python, Java, MySQL"
+    },
+    {
+      "curso": "Introdução a Programação em C",
+      "instituicao": "UFG - Universidade Federal de Goiás",
+      "periodo": "Ago/2018 ~ Dez/2018",
+      "resumo_conhecimentos_aprendidos": "Até agora conhecimentos em: HTML, CSS, JavaScript, Python, Java, MySQL"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Engenharia Civil",
+      "instituicao": "UFG - Universidade Federal de Goiás",
+      "resumo_conhecimentos_interesses": "Toda a grade curricular até o terceiro semestre de Engenharia Civil"
+    },
+    {
+      "interesse_evento_curso": "AutoCAD",
+      "instituicao": "UFG - Universidade Federal de Goiás",
+      "resumo_conhecimentos_interesses": "Modelagem 3D e projetos de arquitetura em AutoCAD."
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "Node.js",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "MVC",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "PYTHON",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "JAVA",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "EXPRESS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "MONGODB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "MySQL",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "AutoCAD",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "Desenho Tecnico",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "Inglês",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "Solidity",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "Desenvolvimento de APIs",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "API RestFUL",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "Bootstrap",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "DEPLOY",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "DevOps",
+      "pontuacao": 6
+    }
+  ]
+}
